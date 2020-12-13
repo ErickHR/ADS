@@ -128,7 +128,7 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$11"
 				quid       	"5BD3F8950012"
-				supplier   	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+				supplier   	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 				quidu      	"5BD3F723005E")))
 		    (object Association "$UNNAMED$12"
 			quid       	"5BD3F89702CF"
@@ -140,19 +140,19 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$14"
 				quid       	"5BD3F8980254"
-				supplier   	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+				supplier   	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 				quidu      	"5BD3F723005E")))
 		    (object Association "$UNNAMED$15"
 			quid       	"5BD3F89A03D9"
 			roles      	(list role_list
 			    (object Role "$UNNAMED$16"
 				quid       	"5BD3F89B0233"
-				supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Examen Médico"
+				supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Examen MÃ©dico"
 				quidu      	"5BD3F7B70262"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$17"
 				quid       	"5BD3F89B0235"
-				supplier   	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+				supplier   	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 				quidu      	"5BD3F723005E")))
 		    (object Association "$UNNAMED$18"
 			quid       	"5BD3F89D034C"
@@ -164,7 +164,7 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$20"
 				quid       	"5BD3F89E0262"
-				supplier   	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+				supplier   	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 				quidu      	"5BD3F723005E")))
 		    (object Association "$UNNAMED$21"
 			quid       	"5BD3F8A100AC"
@@ -176,14 +176,14 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$23"
 				quid       	"5BD3F8A103AC"
-				supplier   	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+				supplier   	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 				quidu      	"5BD3F723005E")))
 		    (object Association "$UNNAMED$24"
 			quid       	"5BD3F927001F"
 			roles      	(list role_list
 			    (object Role "$UNNAMED$25"
 				quid       	"5BD3F92701B6"
-				supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Historial Médico"
+				supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Historial MÃ©dico"
 				quidu      	"5BD3F8D402CF"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$26"
@@ -224,7 +224,7 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$35"
 				quid       	"5BD3FB1102C1"
-				supplier   	"Use Case View::Use Case Model::Actors::Médico"
+				supplier   	"Use Case View::Use Case Model::Actors::MÃ©dico"
 				quidu      	"5BD3FB010000")))
 		    (object Association "$UNNAMED$36"
 			quid       	"5BD3FC4D0196"
@@ -236,19 +236,19 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$38"
 				quid       	"5BD3FC4E00AC"
-				supplier   	"Use Case View::Use Case Model::Actors::Médico"
+				supplier   	"Use Case View::Use Case Model::Actors::MÃ©dico"
 				quidu      	"5BD3FB010000")))
 		    (object Association "$UNNAMED$39"
 			quid       	"5BD3FC9D02BF"
 			roles      	(list role_list
 			    (object Role "$UNNAMED$40"
 				quid       	"5BD3FC9E01D5"
-				supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Emitir Derivavión"
+				supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Emitir DerivaviÃ³n"
 				quidu      	"5BD3FC5E037B"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$41"
 				quid       	"5BD3FC9E01D7"
-				supplier   	"Use Case View::Use Case Model::Actors::Médico"
+				supplier   	"Use Case View::Use Case Model::Actors::MÃ©dico"
 				quidu      	"5BD3FB010000")))
 		    (object Association "$UNNAMED$42"
 			quid       	"5BD3FDB90196"
@@ -260,7 +260,7 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$44"
 				quid       	"5BD3FDB903CB"
-				supplier   	"Use Case View::Use Case Model::Actors::Médico"
+				supplier   	"Use Case View::Use Case Model::Actors::MÃ©dico"
 				quidu      	"5BD3FB010000")))
 		    (object Association "$UNNAMED$45"
 			quid       	"5BD4035B03C9"
@@ -320,14 +320,14 @@
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$59"
 				quid       	"5BD406F60198"
-				supplier   	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+				supplier   	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 				quidu      	"5BD3F723005E")))
 		    (object Association "$UNNAMED$60"
 			quid       	"5C0B5081011A"
 			roles      	(list role_list
 			    (object Role "$UNNAMED$61"
 				quid       	"5C0B5081036B"
-				supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña"
+				supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a"
 				quidu      	"5C0B507600DB"
 				is_navigable 	TRUE)
 			    (object Role "$UNNAMED$62"
@@ -362,7 +362,7 @@
 					quid       	"5BD402B702CF"
 					supplier   	"Use Case View::Use Case Model::Actors::usuario"
 					quidu      	"5BD3F16E00AC")))
-			    (object Class "Médico"
+			    (object Class "MÃ©dico"
 				quid       	"5BD3FB010000"
 				stereotype 	"Actor"
 				superclasses 	(list inheritance_relationship_list
@@ -370,7 +370,7 @@
 					quid       	"5BD402BE010A"
 					supplier   	"Use Case View::Use Case Model::Actors::usuario"
 					quidu      	"5BD3F16E00AC")))
-			    (object Class "Personal Admisión de Caja"
+			    (object Class "Personal AdmisiÃ³n de Caja"
 				quid       	"5BD3F723005E"
 				stereotype 	"Actor"
 				superclasses 	(list inheritance_relationship_list
@@ -1616,12 +1616,12 @@
 							(1680, 607))
 						    line_style 	0
 						    x_offset   	FALSE))))))
-			    (object UseCase "Reestablecer Contraseña"
+			    (object UseCase "Reestablecer ContraseÃ±a"
 				quid       	"5C0B507600DB"
 				statemachine 	(object State_Machine "State/Activity Model5"
 				    quid       	"5C0B5138003F"
 				    states     	(list States
-					(object State "hacer click sobre el link \"olvide mi constraseña\" en formulario autenticación"
+					(object State "hacer click sobre el link \"olvide mi constraseÃ±a\" en formulario autenticaciÃ³n"
 					    quid       	"5C0B5164030E"
 					    type       	"StartState")
 					(object ActivityState "mostrar formulario \"ingreso de dni\""
@@ -1677,7 +1677,7 @@
 					(object State "$UNNAMED$73"
 					    quid       	"5C0B516403DA"
 					    type       	"EndState")
-					(object ActivityState "mostrar formulario registro nueva contraseña"
+					(object ActivityState "mostrar formulario registro nueva contraseÃ±a"
 					    quid       	"5C0B51640398")
 					(object State "$UNNAMED$74"
 					    quid       	"5C0B5164040F"
@@ -1688,7 +1688,7 @@
 					    quid       	"5C0B51640384")
 					(object ActivityState "validar campo password y repassword"
 					    quid       	"5C0B516403EE")
-					(object ActivityState "mostrar formulario mensaje \"Error, las contraseñas no coinciden\""
+					(object ActivityState "mostrar formulario mensaje \"Error, las contraseÃ±as no coinciden\""
 					    quid       	"5C0B516403E1")
 					(object ActivityState "actualizar campo password del usuario en BD"
 					    quid       	"5C0B516403FA")
@@ -1715,30 +1715,30 @@
 					(object State_Transition
 					    quid       	"5C0B51640310"
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario "ingreso de dni"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario "ingreso de dni"
 					    
 					    supplier_quidu 	"5C0B51640315"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::hacer click sobre el link "olvide mi constraseña" en formulario autenticación
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::hacer click sobre el link "olvide mi constraseÃ±a" en formulario autenticaciÃ³n
 					    
 					    client_quidu 	"5C0B5164030E"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640313"))
 					(object State_Transition
 					    quid       	"5C0B51640317"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar campo dni"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar campo dni"
 					    supplier_quidu 	"5C0B5164031C"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario "ingreso de dni"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario "ingreso de dni"
 					    
 					    client_quidu 	"5C0B51640315"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B5164031A"))
 					(object State_Transition
 					    quid       	"5C0B5164031E"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    supplier_quidu 	"5C0B51640323"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar campo dni"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar campo dni"
 					    client_quidu 	"5C0B5164031C"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640321"))
@@ -1746,10 +1746,10 @@
 					    quid       	"5C0B51640325"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "el dni ingresado no es valido"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "el dni ingresado no es valido"
 					    
 					    supplier_quidu 	"5C0B5164032A"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    client_quidu 	"5C0B51640323"
 					    Event      	(object Event "NO"
 						quid       	"5C0B51640326")
@@ -1760,7 +1760,7 @@
 					    supplier   	"$UNNAMED$69"
 					    supplier_quidu 	"5C0B51640331"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "el dni ingresado no es valido"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "el dni ingresado no es valido"
 					    
 					    client_quidu 	"5C0B5164032A"
 					    sendEvent  	(object sendEvent
@@ -1768,9 +1768,9 @@
 					(object State_Transition
 					    quid       	"5C0B51640333"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar dni ingresado en BD"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar dni ingresado en BD"
 					    supplier_quidu 	"5C0B51640338"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    client_quidu 	"5C0B51640323"
 					    Event      	(object Event "SI"
 						quid       	"5C0B51640334")
@@ -1778,9 +1778,9 @@
 						quid       	"5C0B51640336"))
 					(object State_Transition
 					    quid       	"5C0B5164033A"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::existe?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::existe?"
 					    supplier_quidu 	"5C0B5164033F"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar dni ingresado en BD"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar dni ingresado en BD"
 					    client_quidu 	"5C0B51640338"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B5164033D"))
@@ -1788,10 +1788,10 @@
 					    quid       	"5C0B51640341"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "el usuario con el dni ingresado no existe o esta inhabilitado"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "el usuario con el dni ingresado no existe o esta inhabilitado"
 					    
 					    supplier_quidu 	"5C0B51640346"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::existe?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::existe?"
 					    client_quidu 	"5C0B5164033F"
 					    Event      	(object Event "NO"
 						quid       	"5C0B51640342")
@@ -1802,7 +1802,7 @@
 					    supplier   	"$UNNAMED$70"
 					    supplier_quidu 	"5C0B5164034D"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "el usuario con el dni ingresado no existe o esta inhabilitado"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "el usuario con el dni ingresado no existe o esta inhabilitado"
 					    
 					    client_quidu 	"5C0B51640346"
 					    sendEvent  	(object sendEvent
@@ -1810,9 +1810,9 @@
 					(object State_Transition
 					    quid       	"5C0B5164034F"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::obtener de la BD la pregunta sercreta"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::obtener de la BD la pregunta sercreta"
 					    supplier_quidu 	"5C0B51640354"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::existe?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::existe?"
 					    client_quidu 	"5C0B5164033F"
 					    Event      	(object Event "SI"
 						quid       	"5C0B51640350")
@@ -1820,17 +1820,17 @@
 						quid       	"5C0B51640352"))
 					(object State_Transition
 					    quid       	"5C0B51640356"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario responder pregunta secreta"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario responder pregunta secreta"
 					    supplier_quidu 	"5C0B5164035B"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::obtener de la BD la pregunta sercreta"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::obtener de la BD la pregunta sercreta"
 					    client_quidu 	"5C0B51640354"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640359"))
 					(object State_Transition
 					    quid       	"5C0B5164036B"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    supplier_quidu 	"5C0B51640323"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar valor del btnResp"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar valor del btnResp"
 					    client_quidu 	"5C0B51640369"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B5164036E"))
@@ -1838,10 +1838,10 @@
 					    quid       	"5C0B51640371"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "error acceso no permitido"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "error acceso no permitido"
 					    
 					    supplier_quidu 	"5C0B51640376"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    client_quidu 	"5C0B51640323"
 					    Event      	(object Event "NO"
 						quid       	"5C0B51640372")
@@ -1852,7 +1852,7 @@
 					    supplier   	"$UNNAMED$71"
 					    supplier_quidu 	"5C0B5164037D"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "error acceso no permitido"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "error acceso no permitido"
 					    
 					    client_quidu 	"5C0B51640376"
 					    sendEvent  	(object sendEvent
@@ -1860,9 +1860,9 @@
 					(object State_Transition
 					    quid       	"5C0B516403BD"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::valida campo respuestaIN"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::valida campo respuestaIN"
 					    supplier_quidu 	"5C0B516403BB"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    client_quidu 	"5C0B51640323"
 					    Event      	(object Event "SI"
 						quid       	"5C0B516403BE")
@@ -1870,9 +1870,9 @@
 						quid       	"5C0B516403C0"))
 					(object State_Transition
 					    quid       	"5C0B516403B6"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::respuestaIN<>NULL?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::respuestaIN<>NULL?"
 					    supplier_quidu 	"5C0B516403B4"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::valida campo respuestaIN"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::valida campo respuestaIN"
 					    client_quidu 	"5C0B516403BB"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B516403B9"))
@@ -1880,10 +1880,10 @@
 					    quid       	"5C0B516403C2"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "la respuesta ingresada no es valida para cotejar"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "la respuesta ingresada no es valida para cotejar"
 					    
 					    supplier_quidu 	"5C0B516403C7"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::respuestaIN<>NULL?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::respuestaIN<>NULL?"
 					    client_quidu 	"5C0B516403B4"
 					    Event      	(object Event "NO"
 						quid       	"5C0B516403C3")
@@ -1892,10 +1892,10 @@
 					(object State_Transition
 					    quid       	"5C0B516403C9"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario responder pregunta secreta"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario responder pregunta secreta"
 					    supplier_quidu 	"5C0B5164035B"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "la respuesta ingresada no es valida para cotejar"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "la respuesta ingresada no es valida para cotejar"
 					    
 					    client_quidu 	"5C0B516403C7"
 					    Event      	(object Event ""
@@ -1905,18 +1905,18 @@
 						quid       	"5C0B516403CC"))
 					(object State_Transition
 					    quid       	"5C0B5164035D"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::opcion"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::opcion"
 					    supplier_quidu 	"5C0B51640362"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario responder pregunta secreta"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario responder pregunta secreta"
 					    client_quidu 	"5C0B5164035B"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640360"))
 					(object State_Transition
 					    quid       	"5C0B51640364"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar valor del btnResp"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar valor del btnResp"
 					    supplier_quidu 	"5C0B51640369"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::opcion"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::opcion"
 					    client_quidu 	"5C0B51640362"
 					    Event      	(object Event "enviar respuesta"
 						quid       	"5C0B51640365")
@@ -1927,7 +1927,7 @@
 					    label      	""
 					    supplier   	"$UNNAMED$72"
 					    supplier_quidu 	"5C0B51640416"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::opcion"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::opcion"
 					    client_quidu 	"5C0B51640362"
 					    Event      	(object Event "Cancelar"
 						quid       	"5C0B51640412")
@@ -1936,9 +1936,9 @@
 					(object State_Transition
 					    quid       	"5C0B516403AF"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::obtener la respuesta secreta de la BD"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::obtener la respuesta secreta de la BD"
 					    supplier_quidu 	"5C0B516403AD"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::respuestaIN<>NULL?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::respuestaIN<>NULL?"
 					    client_quidu 	"5C0B516403B4"
 					    Event      	(object Event "SI"
 						quid       	"5C0B516403B0")
@@ -1946,17 +1946,17 @@
 						quid       	"5C0B516403B2"))
 					(object State_Transition
 					    quid       	"5C0B516403A8"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::comparar respuestaIN con respuesta de la BD"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::comparar respuestaIN con respuesta de la BD"
 					    supplier_quidu 	"5C0B516403A6"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::obtener la respuesta secreta de la BD"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::obtener la respuesta secreta de la BD"
 					    client_quidu 	"5C0B516403AD"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B516403AB"))
 					(object State_Transition
 					    quid       	"5C0B516403A1"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::respuestaIN = respuestaBD?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::respuestaIN = respuestaBD?"
 					    supplier_quidu 	"5C0B5164039F"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::comparar respuestaIN con respuesta de la BD"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::comparar respuestaIN con respuesta de la BD"
 					    client_quidu 	"5C0B516403A6"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B516403A4"))
@@ -1964,10 +1964,10 @@
 					    quid       	"5C0B516403CE"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "las respuestas no coinciden"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "las respuestas no coinciden"
 					    
 					    supplier_quidu 	"5C0B516403D3"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::respuestaIN = respuestaBD?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::respuestaIN = respuestaBD?"
 					    client_quidu 	"5C0B5164039F"
 					    Event      	(object Event "NO"
 						quid       	"5C0B516403CF")
@@ -1978,7 +1978,7 @@
 					    supplier   	"$UNNAMED$73"
 					    supplier_quidu 	"5C0B516403DA"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "las respuestas no coinciden"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "las respuestas no coinciden"
 					    
 					    client_quidu 	"5C0B516403D3"
 					    sendEvent  	(object sendEvent
@@ -1986,9 +1986,9 @@
 					(object State_Transition
 					    quid       	"5C0B5164039A"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario registro nueva contraseña"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario registro nueva contraseÃ±a"
 					    supplier_quidu 	"5C0B51640398"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::respuestaIN = respuestaBD?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::respuestaIN = respuestaBD?"
 					    client_quidu 	"5C0B5164039F"
 					    Event      	(object Event "SI"
 						quid       	"5C0B5164039B")
@@ -1996,9 +1996,9 @@
 						quid       	"5C0B5164039D"))
 					(object State_Transition
 					    quid       	"5C0B51640393"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::opcion"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::opcion"
 					    supplier_quidu 	"5C0B51640362"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario registro nueva contraseña"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario registro nueva contraseÃ±a"
 					    client_quidu 	"5C0B51640398"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640396"))
@@ -2007,7 +2007,7 @@
 					    label      	""
 					    supplier   	"$UNNAMED$74"
 					    supplier_quidu 	"5C0B5164040F"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::opcion"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::opcion"
 					    client_quidu 	"5C0B51640362"
 					    Event      	(object Event "cancelar"
 						quid       	"5C0B5164040B")
@@ -2016,9 +2016,9 @@
 					(object State_Transition
 					    quid       	"5C0B5164038D"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar bntpass"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar bntpass"
 					    supplier_quidu 	"5C0B5164038B"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::opcion"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::opcion"
 					    client_quidu 	"5C0B51640362"
 					    Event      	(object Event "enviar"
 						quid       	"5C0B5164038E")
@@ -2026,9 +2026,9 @@
 						quid       	"5C0B51640390"))
 					(object State_Transition
 					    quid       	"5C0B51640386"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::bntpass <> NULL?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::bntpass <> NULL?"
 					    supplier_quidu 	"5C0B51640384"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar bntpass"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar bntpass"
 					    client_quidu 	"5C0B5164038B"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640389"))
@@ -2036,10 +2036,10 @@
 					    quid       	"5C0B5164037F"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "error acceso no permitido"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "error acceso no permitido"
 					    
 					    supplier_quidu 	"5C0B51640376"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::bntpass <> NULL?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::bntpass <> NULL?"
 					    client_quidu 	"5C0B51640384"
 					    Event      	(object Event "NO"
 						quid       	"5C0B51640380")
@@ -2048,9 +2048,9 @@
 					(object State_Transition
 					    quid       	"5C0B516403F0"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar campo password y repassword"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar campo password y repassword"
 					    supplier_quidu 	"5C0B516403EE"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::bntpass <> NULL?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::bntpass <> NULL?"
 					    client_quidu 	"5C0B51640384"
 					    Event      	(object Event "SI"
 						quid       	"5C0B516403F1")
@@ -2058,9 +2058,9 @@
 						quid       	"5C0B516403F3"))
 					(object State_Transition
 					    quid       	"5C0B516403E9"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    supplier_quidu 	"5C0B51640323"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::validar campo password y repassword"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::validar campo password y repassword"
 					    client_quidu 	"5C0B516403EE"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B516403EC"))
@@ -2068,10 +2068,10 @@
 					    quid       	"5C0B516403E3"
 					    label      	""
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "Error, las contraseñas no coinciden"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "Error, las contraseÃ±as no coinciden"
 					    
 					    supplier_quidu 	"5C0B516403E1"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    client_quidu 	"5C0B51640323"
 					    Event      	(object Event "NO"
 						quid       	"5C0B516403E4")
@@ -2079,10 +2079,10 @@
 						quid       	"5C0B516403E6"))
 					(object State_Transition
 					    quid       	"5C0B516403DC"
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario registro nueva contraseña"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario registro nueva contraseÃ±a"
 					    supplier_quidu 	"5C0B51640398"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mensaje "Error, las contraseñas no coinciden"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mensaje "Error, las contraseÃ±as no coinciden"
 					    
 					    client_quidu 	"5C0B516403E1"
 					    sendEvent  	(object sendEvent
@@ -2090,9 +2090,9 @@
 					(object State_Transition
 					    quid       	"5C0B516403F5"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::actualizar campo password del usuario en BD"
+					    supplier   	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::actualizar campo password del usuario en BD"
 					    supplier_quidu 	"5C0B516403FA"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::true?"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::true?"
 					    client_quidu 	"5C0B51640323"
 					    Event      	(object Event "SI"
 						quid       	"5C0B516403F6")
@@ -2101,10 +2101,10 @@
 					(object State_Transition
 					    quid       	"5C0B516403FC"
 					    supplier   	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mesnaje "se ha cambiado el password"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mesnaje "se ha cambiado el password"
 					    
 					    supplier_quidu 	"5C0B51640401"
-					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::actualizar campo password del usuario en BD"
+					    client     	"Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::actualizar campo password del usuario en BD"
 					    client_quidu 	"5C0B516403FA"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B516403FF"))
@@ -2113,16 +2113,16 @@
 					    supplier   	"$UNNAMED$75"
 					    supplier_quidu 	"5C0B51640408"
 					    client     	
-|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña::State/Activity Model5::mostrar formulario mesnaje "se ha cambiado el password"
+|Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a::State/Activity Model5::mostrar formulario mesnaje "se ha cambiado el password"
 					    
 					    client_quidu 	"5C0B51640401"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B51640406")))
 				    objectflows 	(list objectflow_list)
 				    statediagrams 	(list StateDiagrams
-					(object ActivityDiagram "reestablecer contraseña"
+					(object ActivityDiagram "reestablecer contraseÃ±a"
 					    quid       	"5C0B5138004F"
-					    title      	"reestablecer contraseña"
+					    title      	"reestablecer contraseÃ±a"
 					    zoom       	100
 					    max_height 	28350
 					    max_width  	21600
@@ -2133,7 +2133,7 @@
 						    line_color 	3342489
 						    quidu      	"5C0B514D02A0"
 						    width      	450)
-						(object StateView "StartState" "hacer click sobre el link \"olvide mi constraseña\" en formulario autenticación" @57
+						(object StateView "StartState" "hacer click sobre el link \"olvide mi constraseÃ±a\" en formulario autenticaciÃ³n" @57
 						    Parent_View 	@56
 						    location   	(223, 111)
 						    font       	(object Font
@@ -2161,7 +2161,7 @@
 							max_width  	1312
 							justify    	1
 							label      	
-|hacer click sobre el link "olvide mi constraseña" en formulario autenticación
+|hacer click sobre el link "olvide mi constraseÃ±a" en formulario autenticaciÃ³n
 							
 							pctDist    	1.000000
 							height     	0
@@ -3444,7 +3444,7 @@
 							(2415, 2226))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ActivityStateView "mostrar formulario registro nueva contraseña" @129
+						(object ActivityStateView "mostrar formulario registro nueva contraseÃ±a" @129
 						    Parent_View 	@59
 						    location   	(3093, 2501)
 						    font       	(object Font
@@ -3464,7 +3464,7 @@
 							nlines     	2
 							max_width  	460
 							justify    	0
-							label      	"mostrar formulario registro nueva contraseña")
+							label      	"mostrar formulario registro nueva contraseÃ±a")
 						    icon_style 	"Icon"
 						    line_color 	3342489
 						    fill_color 	13434879
@@ -3981,7 +3981,7 @@
 							(3116, 3288))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ActivityStateView "mostrar formulario mensaje \"Error, las contraseñas no coinciden\"" @156
+						(object ActivityStateView "mostrar formulario mensaje \"Error, las contraseÃ±as no coinciden\"" @156
 						    Parent_View 	@59
 						    location   	(4279, 2886)
 						    font       	(object Font
@@ -4002,7 +4002,7 @@
 							max_width  	660
 							justify    	0
 							label      	
-|mostrar formulario mensaje "Error, las contraseñas no coinciden"
+|mostrar formulario mensaje "Error, las contraseÃ±as no coinciden"
 							)
 						    icon_style 	"Icon"
 						    line_color 	3342489
@@ -6137,7 +6137,7 @@
 					    quid       	"5C0CA27703B9")
 					(object ActivityState "Buscar en la BD los campos ingresados"
 					    quid       	"5C0CA32202AF")
-					(object Decision "¿Existe historial clinico?"
+					(object Decision "Â¿Existe historial clinico?"
 					    quid       	"5C0CA3BE0261")
 					(object ActivityState "Mostrar formulario mensaje \"El historial clinico no se encuentra registrado\""
 					    quid       	"5C0CA402031C")
@@ -6186,7 +6186,7 @@
 						quid       	"5C0CA344035E"))
 					(object State_Transition
 					    quid       	"5C0CA3F7030D"
-					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::¿Existe historial clinico?"
+					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::Â¿Existe historial clinico?"
 					    supplier_quidu 	"5C0CA3BE0261"
 					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::Buscar en la BD los campos ingresados"
 					    client_quidu 	"5C0CA32202AF"
@@ -6199,7 +6199,7 @@
 |Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::Mostrar formulario mensaje "El historial clinico no se encuentra registrado"
 					    
 					    supplier_quidu 	"5C0CA402031C"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::¿Existe historial clinico?"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::Â¿Existe historial clinico?"
 					    client_quidu 	"5C0CA3BE0261"
 					    Event      	(object Event "No"
 						quid       	"5C0CA48402FE")
@@ -6220,7 +6220,7 @@
 					    label      	""
 					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::Obtener datos del paciente de la BD"
 					    supplier_quidu 	"5C0CA4B10399"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::¿Existe historial clinico?"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Buscar historia clinica::State/Activity Model3::Â¿Existe historial clinico?"
 					    client_quidu 	"5C0CA3BE0261"
 					    Event      	(object Event "Si"
 						quid       	"5C0CA533003F")
@@ -6400,7 +6400,7 @@
 							(1551, 325))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object DecisionView "¿Existe historial clinico?" @263
+						(object DecisionView "Â¿Existe historial clinico?" @263
 						    Parent_View 	@256
 						    location   	(1559, 610)
 						    font       	(object Font
@@ -6428,7 +6428,7 @@
 							nlines     	1
 							max_width  	486
 							justify    	1
-							label      	"¿Existe historial clinico?"
+							label      	"Â¿Existe historial clinico?"
 							pctDist    	-1.265942
 							height     	229
 							orientation 	1)
@@ -6676,7 +6676,7 @@
 				    states     	(list States
 					(object ActivityState "Mostrar formulario \"Identificar Paciente\""
 					    quid       	"5C0B63B301C5")
-					(object State "Comienza cuando el personal de Admisión de Caja le da click en Elaborar Consulta Medica"
+					(object State "Comienza cuando el personal de AdmisiÃ³n de Caja le da click en Elaborar Consulta Medica"
 					    quid       	"5C0B621600BB"
 					    type       	"StartState")
 					(object ActivityState "validar campo Nombres, Apellido_pat y Apellido_mat"
@@ -6688,7 +6688,7 @@
 					    type       	"EndState")
 					(object ActivityState "Verificar cliente en BD"
 					    quid       	"5C0B69B401B5")
-					(object Decision "validación==true?"
+					(object Decision "validaciÃ³n==true?"
 					    quid       	"5C0B6A1900BB")
 					(object ActivityState "mostrar formulario mensaje \"los datos ingresados no son validos\""
 					    quid       	"5C0B51CC0010")
@@ -6718,7 +6718,7 @@
 					    quid       	"5C0B5D0502EE")
 					(object ActivityState "mostrar formulario mensaje \"error acceso no permitido\""
 					    quid       	"5C0B5D130281")
-					(object ActivityState "valida campos Detalle_consulta, Especialidad, MédicoACargo, ClienteAsegurado"
+					(object ActivityState "valida campos Detalle_consulta, Especialidad, MÃ©dicoACargo, ClienteAsegurado"
 					    quid       	"5C0B5D4B0000")
 					(object State "$UNNAMED$89"
 					    quid       	"5C0B5D5F007D"
@@ -6755,7 +6755,7 @@
 				    partitions 	(list Partitions
 					(object Partition "$UNNAMED$91"
 					    quid       	"5C0B61EE01F4"
-					    class      	"Use Case View::Use Case Model::Actors::Personal Admisión de Caja"
+					    class      	"Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja"
 					    quidu      	"5BD3F723005E"
 					    persistence 	"Transient"
 					    creationObj 	FALSE
@@ -6773,7 +6773,7 @@
 |Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::Mostrar formulario "Identificar Paciente"
 					    
 					    supplier_quidu 	"5C0B63B301C5"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::Comienza cuando el personal de Admisión de Caja le da click en Elaborar Consulta Medica"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::Comienza cuando el personal de AdmisiÃ³n de Caja le da click en Elaborar Consulta Medica"
 					    client_quidu 	"5C0B621600BB"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B66C3035E"))
@@ -6811,7 +6811,7 @@
 						quid       	"5C0B685A038D"))
 					(object State_Transition
 					    quid       	"5C0B50B40223"
-					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validación==true?"
+					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validaciÃ³n==true?"
 					    supplier_quidu 	"5C0B6A1900BB"
 					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validar campo Nombres, Apellido_pat y Apellido_mat"
 					    client_quidu 	"5C0B67B60177"
@@ -6824,7 +6824,7 @@
 |Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::mostrar formulario mensaje "los datos ingresados no son validos"
 					    
 					    supplier_quidu 	"5C0B51CC0010"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validación==true?"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validaciÃ³n==true?"
 					    client_quidu 	"5C0B6A1900BB"
 					    Event      	(object Event "NO"
 						quid       	"5C0B51E50011")
@@ -6845,7 +6845,7 @@
 					    label      	""
 					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::Verificar cliente en BD"
 					    supplier_quidu 	"5C0B69B401B5"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validación==true?"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::validaciÃ³n==true?"
 					    client_quidu 	"5C0B6A1900BB"
 					    Event      	(object Event "SI"
 						quid       	"5C0B52A6035D")
@@ -6987,7 +6987,7 @@
 					(object State_Transition
 					    quid       	"5C0B5D6E01E5"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::valida campos Detalle_consulta, Especialidad, MédicoACargo, ClienteAsegurado"
+					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::valida campos Detalle_consulta, Especialidad, MÃ©dicoACargo, ClienteAsegurado"
 					    supplier_quidu 	"5C0B5D4B0000"
 					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::true?"
 					    client_quidu 	"5C0B5D0502EE"
@@ -6999,7 +6999,7 @@
 					    quid       	"5C0B5E2D01B6"
 					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::Campos Ingresados<>NULL?"
 					    supplier_quidu 	"5C0B5DC70281"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::valida campos Detalle_consulta, Especialidad, MédicoACargo, ClienteAsegurado"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica::State/Activity Model4::valida campos Detalle_consulta, Especialidad, MÃ©dicoACargo, ClienteAsegurado"
 					    client_quidu 	"5C0B5D4B0000"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0B5E2D01B9"))
@@ -7202,7 +7202,7 @@
 						    line_color 	3342489
 						    quidu      	"5C0B61EE01F4"
 						    width      	772)
-						(object StateView "StartState" "Comienza cuando el personal de Admisión de Caja le da click en Elaborar Consulta Medica" @280
+						(object StateView "StartState" "Comienza cuando el personal de AdmisiÃ³n de Caja le da click en Elaborar Consulta Medica" @280
 						    Parent_View 	@279
 						    location   	(323, 189)
 						    font       	(object Font
@@ -7229,7 +7229,7 @@
 							nlines     	1
 							max_width  	1670
 							justify    	1
-							label      	"Comienza cuando el personal de Admisión de Caja le da click en Elaborar Consulta Medica"
+							label      	"Comienza cuando el personal de AdmisiÃ³n de Caja le da click en Elaborar Consulta Medica"
 							pctDist    	1.433333
 							height     	6
 							orientation 	0)
@@ -7520,7 +7520,7 @@
 						    height     	106
 						    annotation 	1
 						    autoResize 	TRUE)
-						(object DecisionView "validación==true?" @297
+						(object DecisionView "validaciÃ³n==true?" @297
 						    Parent_View 	@282
 						    location   	(1325, 1550)
 						    font       	(object Font
@@ -7548,7 +7548,7 @@
 							nlines     	1
 							max_width  	319
 							justify    	1
-							label      	"validación==true?"
+							label      	"validaciÃ³n==true?"
 							pctDist    	0.467401
 							height     	34
 							orientation 	0)
@@ -8015,7 +8015,7 @@
 							nlines     	3
 							max_width  	297
 							justify    	1
-							label      	"Regresa al Menú de inicio")
+							label      	"Regresa al MenÃº de inicio")
 						    line_color 	3342489
 						    fill_color 	13434879
 						    width      	357
@@ -8195,7 +8195,7 @@
 |CAMPOS:
 |Detalle_consulta
 |Especialidad
-|MédicoACargo
+|MÃ©dicoACargo
 |
 |Boolean: ClienteAsegurado
 |
@@ -8499,7 +8499,7 @@
 							(2730, 3976))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ActivityStateView "valida campos Detalle_consulta, Especialidad, MédicoACargo, ClienteAsegurado" @350
+						(object ActivityStateView "valida campos Detalle_consulta, Especialidad, MÃ©dicoACargo, ClienteAsegurado" @350
 						    Parent_View 	@282
 						    location   	(3698, 4014)
 						    font       	(object Font
@@ -8519,7 +8519,7 @@
 							nlines     	2
 							max_width  	936
 							justify    	0
-							label      	"valida campos Detalle_consulta, Especialidad, MédicoACargo, ClienteAsegurado")
+							label      	"valida campos Detalle_consulta, Especialidad, MÃ©dicoACargo, ClienteAsegurado")
 						    icon_style 	"Icon"
 						    line_color 	3342489
 						    fill_color 	13434879
@@ -9580,7 +9580,7 @@
 				quid       	"5BD404C0032D")
 			    (object UseCase "Emitir Comprobante de Pago"
 				quid       	"5BD3F781031D")
-			    (object UseCase "Emitir Derivavión"
+			    (object UseCase "Emitir DerivaviÃ³n"
 				quid       	"5BD3FC5E037B")
 			    (object UseCase "Emitir Ficha de Examen Medico"
 				quid       	"5BD3FC0A0213")
@@ -9594,9 +9594,9 @@
 				quid       	"5BD3FA7C03AA")
 			    (object UseCase "Enviar Historia clinica"
 				quid       	"5BD3F92A034C")
-			    (object UseCase "Registrar Examen Médico"
+			    (object UseCase "Registrar Examen MÃ©dico"
 				quid       	"5BD3F7B70262")
-			    (object UseCase "Registrar Historial Médico"
+			    (object UseCase "Registrar Historial MÃ©dico"
 				quid       	"5BD3F8D402CF")
 			    (object UseCase "Registrar Paciente"
 				quid       	"5BD3F77E01E5"
@@ -9624,7 +9624,7 @@
 					    quid       	"5C0CA17201B6")
 					(object Decision "Cuenta con seguro?"
 					    quid       	"5C0CA17201AF")
-					(object ActivityState "Aplicar  Descuento segun Codigo de Seguro y carné de seguro"
+					(object ActivityState "Aplicar  Descuento segun Codigo de Seguro y carnÃ© de seguro"
 					    quid       	"5C0CA172019A")
 					(object ActivityState "Mostrar \"Formulario Seguro\""
 					    quid       	"5C0CA17201A8")
@@ -9790,7 +9790,7 @@
 					(object State_Transition
 					    quid       	"5C0CA172019C"
 					    label      	""
-					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Paciente::State/Activity Model2::Aplicar  Descuento segun Codigo de Seguro y carné de seguro"
+					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Paciente::State/Activity Model2::Aplicar  Descuento segun Codigo de Seguro y carnÃ© de seguro"
 					    supplier_quidu 	"5C0CA172019A"
 					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Paciente::State/Activity Model2::Validacion == true?"
 					    client_quidu 	"5C0CA17201A1"
@@ -9849,7 +9849,7 @@
 					    quid       	"5C0CA1720195"
 					    supplier   	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Paciente::State/Activity Model2::Generar codigo de historia clinica y se guarda en la base de datos"
 					    supplier_quidu 	"5C0CA1720193"
-					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Paciente::State/Activity Model2::Aplicar  Descuento segun Codigo de Seguro y carné de seguro"
+					    client     	"Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Paciente::State/Activity Model2::Aplicar  Descuento segun Codigo de Seguro y carnÃ© de seguro"
 					    client_quidu 	"5C0CA172019A"
 					    sendEvent  	(object sendEvent
 						quid       	"5C0CA1720198"))
@@ -10548,7 +10548,7 @@
 							(2468, 1607))
 						    line_style 	0
 						    x_offset   	FALSE)
-						(object ActivityStateView "Aplicar  Descuento segun Codigo de Seguro y carné de seguro" @443
+						(object ActivityStateView "Aplicar  Descuento segun Codigo de Seguro y carnÃ© de seguro" @443
 						    Parent_View 	@411
 						    location   	(1774, 2461)
 						    font       	(object Font
@@ -10568,7 +10568,7 @@
 							nlines     	2
 							max_width  	612
 							justify    	0
-							label      	"Aplicar  Descuento segun Codigo de Seguro y carné de seguro")
+							label      	"Aplicar  Descuento segun Codigo de Seguro y carnÃ© de seguro")
 						    icon_style 	"Icon"
 						    line_color 	3342489
 						    fill_color 	13434879
@@ -11184,8 +11184,8 @@
 			zoom       	85
 			max_height 	28350
 			max_width  	21600
-			origin_x   	0
-			origin_y   	0
+			origin_x   	1993
+			origin_y   	2265
 			items      	(list diagram_item_list
 			    (object UseCaseView "Use Case View::Use Case Model::MODULO GESTION DE SISTEMA::Gestionar datos" @476
 				location   	(316, 102)
@@ -11203,7 +11203,98 @@
 				    location   	(316, 240)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	642
+				    max_width  	630
+				    justify    	0
+				    label      	"Autentificar Usuario")
+				icon_style 	"Icon"
+				line_color 	3342489
+				fill_color 	13434879
+				quidu      	"5BD3F17200EB"
+				height     	118)
+			    (object ClassView "Class" "Use Case View::Use Case Model::usuario" @293
+				ShowCompartmentStereotypes 	TRUE
+				IncludeAttribute 	TRUE
+				IncludeOperation 	TRUE
+				location   	(873, 891)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@293
+				    location   	(873, 1051)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	325
+				    justify    	0
+				    label      	"usuario")
+				icon       	"Actor"
+				icon_style 	"Icon"
+				line_color 	3342489
+				quidu      	"5BD3F16E00AC"
+				annotation 	8
+				autoResize 	TRUE)
+			    (object AssociationViewNew "$UNNAMED$13" @294
+				location   	(586, 891)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"5BD3F1BC004E"
+				roleview_list 	(list RoleViews
+				    (object RoleView "$UNNAMED$14" @295
+					Parent_View 	@294
+					location   	(-41, 182)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"5BD3F1BD006E"
+					client     	@294
+					supplier   	@292
+					vertices   	(list Points
+					    (586, 891)
+					    (360, 891))
+					line_style 	0)
+				    (object RoleView "$UNNAMED$15" @296
+					Parent_View 	@294
+					location   	(-41, 182)
+					stereotype 	TRUE
+					line_color 	3342489
+					quidu      	"5BD3F1BD0070"
+					client     	@294
+					supplier   	@293
+					vertices   	(list Points
+					    (586, 891)
+					    (812, 891))
+					line_style 	0)))
+			    (object UseCaseView "Use Case View::Use Case Model::Gestionar datos" @297
+				location   	(253, 104)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@297
+				    location   	(253, 242)
+				    anchor_loc 	1
+				    nlines     	2
+				    max_width  	630
 				    justify    	0
 				    label      	"Gestionar datos")
 				icon_style 	"Icon"
@@ -11341,7 +11432,7 @@
 					    (610, 314)
 					    (796, 242))
 					line_style 	0)))
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Historial Médico" @485
+			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Registrar Historial MÃ©dico" @485
 				location   	(2405, 1702)
 				font       	(object Font
 				    size       	10
@@ -11359,7 +11450,7 @@
 				    nlines     	2
 				    max_width  	656
 				    justify    	0
-				    label      	"Registrar Historial Médico")
+				    label      	"Registrar Historial MÃ©dico")
 				icon_style 	"Icon"
 				line_color 	3342489
 				fill_color 	12615808
@@ -11634,8 +11725,8 @@
 				fill_color 	12615808
 				quidu      	"5BD3FC0A0213"
 				height     	118)
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Emitir Derivavión" @501
-				location   	(2528, 3395)
+			    (object UseCaseView "Use Case View::Use Case Model::Emitir DerivaviÃ³n" @323
+				location   	(2541, 2866)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -11646,20 +11737,20 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@501
-				    location   	(2528, 3533)
+				    Parent_View 	@323
+				    location   	(2541, 3004)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	656
 				    justify    	0
-				    label      	"Emitir Derivavión")
+				    label      	"Emitir DerivaviÃ³n")
 				icon_style 	"Icon"
 				line_color 	3342489
 				fill_color 	12615808
 				quidu      	"5BD3FC5E037B"
 				height     	118)
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Ver Historial Clinico" @502
-				location   	(2559, 3701)
+			    (object UseCaseView "Use Case View::Use Case Model::Ver Historial Clinico" @324
+				location   	(2517, 3118)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -11670,8 +11761,8 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@502
-				    location   	(2559, 3839)
+				    Parent_View 	@324
+				    location   	(2517, 3256)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	656
@@ -11682,7 +11773,7 @@
 				fill_color 	12615808
 				quidu      	"5BD3FDAB0213"
 				height     	118)
-			    (object ClassView "Class" "Use Case View::Use Case Model::Actors::Médico" @503
+			    (object ClassView "Class" "Use Case View::Use Case Model::Actors::MÃ©dico" @503
 				ShowCompartmentStereotypes 	TRUE
 				IncludeAttribute 	TRUE
 				IncludeOperation 	TRUE
@@ -11703,7 +11794,7 @@
 				    nlines     	2
 				    max_width  	325
 				    justify    	0
-				    label      	"Médico")
+				    label      	"MÃ©dico")
 				icon       	"Actor"
 				icon_style 	"Icon"
 				line_color 	3342489
@@ -11788,8 +11879,8 @@
 					    (2068, 3148)
 					    (1754, 3192))
 					line_style 	0)))
-			    (object AssociationViewNew "$UNNAMED$39" @510
-				location   	(2086, 3290)
+			    (object AssociationViewNew "$UNNAMED$52" @332
+				location   	(2162, 2756)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -11803,32 +11894,32 @@
 				line_color 	3342489
 				quidu      	"5BD3FC9D02BF"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$40" @511
-					Parent_View 	@510
-					location   	(326, 864)
+				    (object RoleView "$UNNAMED$53" @333
+					Parent_View 	@332
+					location   	(402, 330)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3FC9E01D5"
 					client     	@510
 					supplier   	@501
 					vertices   	(list Points
-					    (2086, 3290)
-					    (2418, 3368))
+					    (2162, 2756)
+					    (2431, 2833))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$41" @512
-					Parent_View 	@510
-					location   	(326, 864)
+				    (object RoleView "$UNNAMED$54" @334
+					Parent_View 	@332
+					location   	(402, 330)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3FC9E01D7"
 					client     	@510
 					supplier   	@503
 					vertices   	(list Points
-					    (2086, 3290)
-					    (1754, 3213))
+					    (2162, 2756)
+					    (1894, 2680))
 					line_style 	0)))
-			    (object AssociationViewNew "$UNNAMED$42" @513
-				location   	(2105, 3437)
+			    (object AssociationViewNew "$UNNAMED$55" @335
+				location   	(2163, 2881)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -11842,29 +11933,29 @@
 				line_color 	3342489
 				quidu      	"5BD3FDB90196"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$43" @514
-					Parent_View 	@513
-					location   	(275, 903)
+				    (object RoleView "$UNNAMED$56" @336
+					Parent_View 	@335
+					location   	(333, 347)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3FDB903C9"
 					client     	@513
 					supplier   	@502
 					vertices   	(list Points
-					    (2105, 3437)
-					    (2456, 3642))
+					    (2163, 2881)
+					    (2433, 3060))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$44" @515
-					Parent_View 	@513
-					location   	(275, 903)
+				    (object RoleView "$UNNAMED$57" @337
+					Parent_View 	@335
+					location   	(333, 347)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3FDB903CB"
 					client     	@513
 					supplier   	@503
 					vertices   	(list Points
-					    (2105, 3437)
-					    (1754, 3233))
+					    (2163, 2881)
+					    (1894, 2702))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Ver ficha Examen Medico" @516
 				location   	(2569, 4032)
@@ -12222,8 +12313,8 @@
 				fill_color 	12615808
 				quidu      	"5BD3F781031D"
 				height     	118)
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elabora consulta medica" @536
-				location   	(2394, 1042)
+			    (object UseCaseView "Use Case View::Use Case Model::elabora consulta medica" @360
+				location   	(2528, 853)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12234,8 +12325,8 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@536
-				    location   	(2394, 1180)
+				    Parent_View 	@360
+				    location   	(2528, 991)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	656
@@ -12246,8 +12337,8 @@
 				fill_color 	12615808
 				quidu      	"5BD3F81E007D"
 				height     	118)
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::Emitir Ticket de cita" @537
-				location   	(2398, 1356)
+			    (object UseCaseView "Use Case View::Use Case Model::Emitir Ticket de cita" @361
+				location   	(2517, 1103)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12258,8 +12349,8 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@537
-				    location   	(2398, 1494)
+				    Parent_View 	@361
+				    location   	(2517, 1241)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	656
@@ -12270,8 +12361,8 @@
 				fill_color 	12615808
 				quidu      	"5BD3F86902B0"
 				height     	118)
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO ATENCION AL CLIENTE::elaborar examen medico" @538
-				location   	(2447, 709)
+			    (object UseCaseView "Use Case View::Use Case Model::elaborar examen medico" @362
+				location   	(2502, 586)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12282,8 +12373,8 @@
 				    color      	0
 				    default_color 	TRUE)
 				label      	(object ItemLabel
-				    Parent_View 	@538
-				    location   	(2447, 847)
+				    Parent_View 	@362
+				    location   	(2502, 724)
 				    anchor_loc 	1
 				    nlines     	2
 				    max_width  	656
@@ -12294,7 +12385,7 @@
 				fill_color 	12615808
 				quidu      	"5BD404C0032D"
 				height     	118)
-			    (object ClassView "Class" "Use Case View::Use Case Model::Actors::Personal Admisión de Caja" @539
+			    (object ClassView "Class" "Use Case View::Use Case Model::Actors::Personal AdmisiÃ³n de Caja" @539
 				ShowCompartmentStereotypes 	TRUE
 				IncludeAttribute 	TRUE
 				IncludeOperation 	TRUE
@@ -12315,7 +12406,7 @@
 				    nlines     	2
 				    max_width  	325
 				    justify    	0
-				    label      	"Personal Admisión de Caja")
+				    label      	"Personal AdmisiÃ³n de Caja")
 				icon       	"Actor"
 				icon_style 	"Icon"
 				line_color 	3342489
@@ -12400,8 +12491,8 @@
 					    (1915, 618)
 					    (1666, 725))
 					line_style 	0)))
-			    (object AssociationViewNew "$UNNAMED$18" @546
-				location   	(1975, 886)
+			    (object AssociationViewNew "$UNNAMED$31" @370
+				location   	(2040, 676)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12415,32 +12506,32 @@
 				line_color 	3342489
 				quidu      	"5BD3F89D034C"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$19" @547
-					Parent_View 	@546
-					location   	(415, 641)
+				    (object RoleView "$UNNAMED$32" @371
+					Parent_View 	@370
+					location   	(480, 431)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3F89E0252"
 					client     	@546
 					supplier   	@536
 					vertices   	(list Points
-					    (1975, 886)
-					    (2284, 999))
+					    (2040, 676)
+					    (2416, 810))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$20" @548
-					Parent_View 	@546
-					location   	(415, 641)
+				    (object RoleView "$UNNAMED$33" @372
+					Parent_View 	@370
+					location   	(480, 431)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3F89E0262"
 					client     	@546
 					supplier   	@539
 					vertices   	(list Points
-					    (1975, 886)
-					    (1666, 773))
+					    (2040, 676)
+					    (1665, 543))
 					line_style 	0)))
-			    (object AssociationViewNew "$UNNAMED$21" @549
-				location   	(2056, 1094)
+			    (object AssociationViewNew "$UNNAMED$34" @373
+				location   	(2108, 841)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12454,32 +12545,43 @@
 				line_color 	3342489
 				quidu      	"5BD3F8A100AC"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$22" @550
-					Parent_View 	@549
-					location   	(496, 849)
+				    (object RoleView "$UNNAMED$35" @374
+					Parent_View 	@373
+					location   	(548, 596)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3F8A103AA"
 					client     	@549
 					supplier   	@537
 					vertices   	(list Points
-					    (2056, 1094)
-					    (2322, 1298))
+					    (2108, 841)
+					    (2428, 1045))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$23" @551
-					Parent_View 	@549
-					location   	(496, 849)
+				    (object RoleView "$UNNAMED$36" @375
+					Parent_View 	@373
+					location   	(548, 596)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD3F8A103AC"
 					client     	@549
 					supplier   	@539
 					vertices   	(list Points
-					    (2056, 1094)
-					    (1790, 890))
+					    (2108, 841)
+					    (1789, 638))
 					line_style 	0)))
-			    (object AssociationViewNew "$UNNAMED$57" @552
-				location   	(2001, 729)
+			    (object InheritView "" @376
+				stereotype 	TRUE
+				line_color 	3342489
+				quidu      	"5BD402B500BC"
+				client     	@363
+				supplier   	@293
+				vertices   	(list Points
+				    (1548, 519)
+				    (1247, 503)
+				    (930, 829))
+				line_style 	0)
+			    (object AssociationViewNew "$UNNAMED$70" @377
+				location   	(2028, 551)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12493,29 +12595,29 @@
 				line_color 	3342489
 				quidu      	"5BD406F50242"
 				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$58" @553
-					Parent_View 	@552
-					location   	(393, 204)
+				    (object RoleView "$UNNAMED$71" @378
+					Parent_View 	@377
+					location   	(420, 26)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD406F60196"
 					client     	@552
 					supplier   	@538
 					vertices   	(list Points
-					    (2001, 729)
-					    (2337, 711))
+					    (2028, 551)
+					    (2392, 575))
 					line_style 	0)
-				    (object RoleView "$UNNAMED$59" @554
-					Parent_View 	@552
-					location   	(393, 204)
+				    (object RoleView "$UNNAMED$72" @379
+					Parent_View 	@377
+					location   	(420, 26)
 					stereotype 	TRUE
 					line_color 	3342489
 					quidu      	"5BD406F60198"
 					client     	@552
 					supplier   	@539
 					vertices   	(list Points
-					    (2001, 729)
-					    (1666, 747))
+					    (2028, 551)
+					    (1665, 527))
 					line_style 	0)))
 			    (object UseCaseView "Use Case View::Use Case Model::MODULO SEGURIDAD::Autentificar Usuario" @555
 				location   	(303, 825)
@@ -12541,7 +12643,7 @@
 				fill_color 	8421631
 				quidu      	"5BD3F17200EB"
 				height     	118)
-			    (object UseCaseView "Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer Contraseña" @556
+			    (object UseCaseView "Use Case View::Use Case Model::MODULO SEGURIDAD::Reestablecer ContraseÃ±a" @556
 				location   	(316, 1125)
 				font       	(object Font
 				    size       	10
@@ -12559,7 +12661,7 @@
 				    nlines     	2
 				    max_width  	630
 				    justify    	0
-				    label      	"Reestablecer Contraseña")
+				    label      	"Reestablecer ContraseÃ±a")
 				icon_style 	"Icon"
 				line_color 	3342489
 				fill_color 	8421631
@@ -12697,8 +12799,8 @@
 				    (1254, 1809)
 				    (948, 1076))
 				line_style 	0)
-			    (object AssociationViewNew "$UNNAMED$60" @567
-				location   	(619, 994)
+			    (object NoteView @383
+				location   	(3437, 283)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -12708,44 +12810,2703 @@
 				    strike     	FALSE
 				    color      	0
 				    default_color 	TRUE)
-				stereotype 	TRUE
+				label      	(object ItemLabel
+				    Parent_View 	@383
+				    location   	(3089, 171)
+				    fill_color 	13434879
+				    nlines     	4
+				    max_width  	661
+				    justify    	1
+				    label      	"Estoy haciendo mi comentario de prueba")
 				line_color 	3342489
-				quidu      	"5C0B5081011A"
-				roleview_list 	(list RoleViews
-				    (object RoleView "$UNNAMED$61" @568
-					Parent_View 	@567
-					location   	(-254, 103)
-					stereotype 	TRUE
-					line_color 	3342489
-					quidu      	"5C0B5081036B"
-					client     	@567
-					supplier   	@556
-					vertices   	(list Points
-					    (619, 994)
-					    (424, 1076))
-					line_style 	0)
-				    (object RoleView "$UNNAMED$62" @569
-					Parent_View 	@567
-					location   	(-254, 103)
-					stereotype 	TRUE
-					line_color 	3342489
-					quidu      	"5C0B5081036D"
-					client     	@567
-					supplier   	@557
-					vertices   	(list Points
-					    (619, 994)
-					    (814, 913))
-					line_style 	0)))
-			    (object InheritView "" @570
-				stereotype 	TRUE
-				line_color 	3342489
-				quidu      	"5BD402B500BC"
-				client     	@539
-				supplier   	@557
-				vertices   	(list Points
-				    (1550, 762)
-				    (930, 876))
-				line_style 	0))))))
+				fill_color 	13434879
+				width      	721
+				height     	236)))))
+	    (object Class_Category "Emitir ticket de cita"
+		quid       	"5BD3F95F0203"
+		exportControl 	"Public"
+		logical_models 	(list unit_reference_list)
+		statemachine 	(object State_Machine "State/Activity Model5"
+		    quid       	"5BD3F94901F4"
+		    states     	(list States
+			(object State "Hacer click en el boton generar cita"
+			    quid       	"5BD3FA74033C"
+			    type       	"StartState")
+			(object ActivityState "Mostrar formulario busqueda paciente"
+			    quid       	"5BD409590119")
+			(object ActivityState "validar campo busqueda paciente"
+			    quid       	"5BD40994001F")
+			(object Decision "Â¿true?"
+			    quid       	"5BD409D103D8")
+			(object ActivityState "mostrar formulario de error el DNI ingresado no es valido"
+			    quid       	"5BD40A32038A")
+			(object State "$UNNAMED$77"
+			    quid       	"5BD40B9D039A"
+			    type       	"EndState")
+			(object ActivityState "validar si existe en la BD el DNI del paciente"
+			    quid       	"5BD40C2A00DB")
+			(object Decision "Â¿existe?"
+			    quid       	"5BD413DF039A")
+			(object ActivityState "Mostrar mensaje de error \"El dni ingresado no existe o esta inhabilitado\""
+			    quid       	"5BD413FE00DB")
+			(object ActivityState "mostrar interfaz de impresiÃ³n"
+			    quid       	"5BD414C2002F")
+			(object ActivityState "validar boton imprimir ticket de cita"
+			    quid       	"5BD4165F0232")
+			(object Decision "opciÃ³n"
+			    quid       	"5BD4197D00FA")
+			(object State "$UNNAMED$78"
+			    quid       	"5BD41A3902BF"
+			    type       	"EndState")
+			(object Decision "true?"
+			    quid       	"5BD41B0002BF")
+			(object ActivityState "mostrar formulario de error \"Acceso no permitido al sistema\""
+			    quid       	"5BD41B2603B9")
+			(object ActivityState "El sistema ordena imprimir ticket"
+			    quid       	"5BD41C1502EE")
+			(object State "$UNNAMED$79"
+			    quid       	"5BD41C45004E"
+			    type       	"EndState")
+			(object State "$UNNAMED$80"
+			    quid       	"5BD41C4E03B9"
+			    type       	"EndState")
+			(object ActivityState "almacenar el valor del ticket en la BD"
+			    quid       	"5BD41B2803B9"))
+		    partitions 	(list Partitions
+			(object Partition "usuario:"
+			    quid       	"5BD3F9E501A6"
+			    class      	"Use Case View::Use Case Model::usuario"
+			    quidu      	"5BD3F16E00AC"
+			    persistence 	"Transient"
+			    creationObj 	FALSE
+			    multi      	FALSE)
+			(object Partition "sistema"
+			    quid       	"5BD41DA7033C"
+			    persistence 	"Transient"
+			    creationObj 	FALSE
+			    multi      	FALSE))
+		    objects    	(list Objects)
+		    transitions 	(list transition_list
+			(object State_Transition
+			    quid       	"5BD409C40271"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::validar campo busqueda paciente"
+			    supplier_quidu 	"5BD40994001F"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::Mostrar formulario busqueda paciente"
+			    client_quidu 	"5BD409590119"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD409C40274"))
+			(object State_Transition
+			    quid       	"5BD409D602CF"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::Â¿true?"
+			    supplier_quidu 	"5BD409D103D8"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::validar campo busqueda paciente"
+			    client_quidu 	"5BD40994001F"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD409D602D2"))
+			(object State_Transition
+			    quid       	"5BD40BAC02FD"
+			    supplier   	"$UNNAMED$77"
+			    supplier_quidu 	"5BD40B9D039A"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::mostrar formulario de error el DNI ingresado no es valido"
+			    client_quidu 	"5BD40A32038A"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD40BAC0300"))
+			(object State_Transition
+			    quid       	"5BD40BB8003E"
+			    label      	""
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::mostrar formulario de error el DNI ingresado no es valido"
+			    supplier_quidu 	"5BD40A32038A"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::Â¿true?"
+			    client_quidu 	"5BD409D103D8"
+			    Event      	(object Event "No"
+				quid       	"5BD40BB8003F")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD40BB80041"))
+			(object State_Transition
+			    quid       	"5BD40C4E0242"
+			    label      	""
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::validar si existe en la BD el DNI del paciente"
+			    supplier_quidu 	"5BD40C2A00DB"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::Â¿true?"
+			    client_quidu 	"5BD409D103D8"
+			    Event      	(object Event "Si"
+				quid       	"5BD40C4E0243")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD40C4E0245"))
+			(object State_Transition
+			    quid       	"5BD413EF0129"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::Â¿existe?"
+			    supplier_quidu 	"5BD413DF039A"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::validar si existe en la BD el DNI del paciente"
+			    client_quidu 	"5BD40C2A00DB"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD413EF012C"))
+			(object State_Transition
+			    quid       	"5BD415F60186"
+			    label      	""
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::mostrar interfaz de impresiÃ³n"
+			    supplier_quidu 	"5BD414C2002F"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::Â¿existe?"
+			    client_quidu 	"5BD413DF039A"
+			    Event      	(object Event "Si"
+				quid       	"5BD415F60187")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD415F60189"))
+			(object State_Transition
+			    quid       	"5BD415F8039A"
+			    label      	""
+			    supplier   	
+|Use Case View::Emitir ticket de cita::State/Activity Model5::Mostrar mensaje de error "El dni ingresado no existe o esta inhabilitado"
+			    
+			    supplier_quidu 	"5BD413FE00DB"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::Â¿existe?"
+			    client_quidu 	"5BD413DF039A"
+			    Event      	(object Event "No"
+				quid       	"5BD415F8039B")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD415F8039D"))
+			(object State_Transition
+			    quid       	"5BD419D1030D"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::opciÃ³n"
+			    supplier_quidu 	"5BD4197D00FA"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::mostrar interfaz de impresiÃ³n"
+			    client_quidu 	"5BD414C2002F"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD419D10310"))
+			(object State_Transition
+			    quid       	"5BD419D70158"
+			    label      	""
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::validar boton imprimir ticket de cita"
+			    supplier_quidu 	"5BD4165F0232"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::opciÃ³n"
+			    client_quidu 	"5BD4197D00FA"
+			    Event      	(object Event "imprimir"
+				quid       	"5BD419D70159")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD419D7015B"))
+			(object State_Transition
+			    quid       	"5BD41A3E02EE"
+			    label      	""
+			    supplier   	"$UNNAMED$78"
+			    supplier_quidu 	"5BD41A3902BF"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::opciÃ³n"
+			    client_quidu 	"5BD4197D00FA"
+			    Event      	(object Event "cancelar"
+				quid       	"5BD41A3E02EF")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41A3E02F1"))
+			(object State_Transition
+			    quid       	"5BD41B040213"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::true?"
+			    supplier_quidu 	"5BD41B0002BF"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::validar boton imprimir ticket de cita"
+			    client_quidu 	"5BD4165F0232"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41B040216"))
+			(object State_Transition
+			    quid       	"5BD41B2D030D"
+			    label      	""
+			    supplier   	
+|Use Case View::Emitir ticket de cita::State/Activity Model5::mostrar formulario de error "Acceso no permitido al sistema"
+			    
+			    supplier_quidu 	"5BD41B2603B9"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::true?"
+			    client_quidu 	"5BD41B0002BF"
+			    Event      	(object Event "no"
+				quid       	"5BD41B2D030E")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41B2D0310"))
+			(object State_Transition
+			    quid       	"5BD41B30005E"
+			    label      	""
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::almacenar el valor del ticket en la BD"
+			    supplier_quidu 	"5BD41B2803B9"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::true?"
+			    client_quidu 	"5BD41B0002BF"
+			    Event      	(object Event "si"
+				quid       	"5BD41B30005F")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41B300061"))
+			(object State_Transition
+			    quid       	"5BD41C200261"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::El sistema ordena imprimir ticket"
+			    supplier_quidu 	"5BD41C1502EE"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::almacenar el valor del ticket en la BD"
+			    client_quidu 	"5BD41B2803B9"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41C200264"))
+			(object State_Transition
+			    quid       	"5BD41C49038A"
+			    supplier   	"$UNNAMED$79"
+			    supplier_quidu 	"5BD41C45004E"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::El sistema ordena imprimir ticket"
+			    client_quidu 	"5BD41C1502EE"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41C49038D"))
+			(object State_Transition
+			    quid       	"5BD41C52003E"
+			    supplier   	"$UNNAMED$80"
+			    supplier_quidu 	"5BD41C4E03B9"
+			    client     	
+|Use Case View::Emitir ticket de cita::State/Activity Model5::mostrar formulario de error "Acceso no permitido al sistema"
+			    
+			    client_quidu 	"5BD41B2603B9"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41C520041"))
+			(object State_Transition
+			    quid       	"5BD41DFF02FD"
+			    supplier   	"Use Case View::Emitir ticket de cita::State/Activity Model5::Mostrar formulario busqueda paciente"
+			    supplier_quidu 	"5BD409590119"
+			    client     	"Use Case View::Emitir ticket de cita::State/Activity Model5::Hacer click en el boton generar cita"
+			    client_quidu 	"5BD3FA74033C"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41DFF0300")))
+		    objectflows 	(list objectflow_list)
+		    statediagrams 	(list StateDiagrams
+			(object ActivityDiagram "Emitir ticket de cita"
+			    quid       	"5BD3F9490203"
+			    title      	"Emitir ticket de cita"
+			    zoom       	100
+			    max_height 	28350
+			    max_width  	21600
+			    origin_x   	269
+			    origin_y   	719
+			    items      	(list diagram_item_list
+				(object Swimlane "usuario:" @384
+				    line_color 	3342489
+				    quidu      	"5BD3F9E501A6"
+				    width      	614)
+				(object StateView "StartState" "Hacer click en el boton generar cita" @385
+				    Parent_View 	@384
+				    location   	(211, 208)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @386
+					Parent_View 	@385
+					location   	(59, 54)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					nlines     	2
+					max_width  	600
+					justify    	1
+					label      	"Hacer click en el boton generar cita"
+					pctDist    	-2.233333
+					height     	125
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD3FA74033C"
+				    autoResize 	TRUE)
+				(object Swimlane "sistema" @387
+				    location   	(614, 0)
+				    line_color 	3342489
+				    quidu      	"5BD41DA7033C"
+				    width      	3030)
+				(object ActivityStateView "Mostrar formulario busqueda paciente" @388
+				    Parent_View 	@387
+				    location   	(1238, 181)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@388
+					location   	(1238, 184)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	346
+					justify    	0
+					label      	"Mostrar formulario busqueda paciente")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD409590119"
+				    width      	452
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @389
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41DFF02FD"
+				    client     	@385
+				    supplier   	@388
+				    vertices   	(list Points
+					(241, 207)
+					(1037, 186))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "validar campo busqueda paciente" @390
+				    Parent_View 	@387
+				    location   	(1225, 400)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@390
+					location   	(1225, 403)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	388
+					justify    	0
+					label      	"validar campo busqueda paciente")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD40994001F"
+				    width      	494
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @391
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD409C40271"
+				    client     	@388
+				    supplier   	@390
+				    vertices   	(list Points
+					(1234, 233)
+					(1228, 346))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "Â¿true?" @392
+				    Parent_View 	@387
+				    location   	(1212, 674)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @393
+					Parent_View 	@392
+					location   	(1233, 563)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	1
+					max_width  	116
+					justify    	1
+					label      	"Â¿true?"
+					pctDist    	0.302116
+					height     	41
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD409D103D8"
+				    autoResize 	TRUE)
+				(object TransView "" @394
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD409D602CF"
+				    client     	@390
+				    supplier   	@392
+				    vertices   	(list Points
+					(1222, 453)
+					(1212, 637))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "validar si existe en la BD el DNI del paciente" @395
+				    Parent_View 	@387
+				    location   	(1827, 817)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@395
+					location   	(1827, 820)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	508
+					justify    	0
+					label      	"validar si existe en la BD el DNI del paciente")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD40C2A00DB"
+				    width      	614
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object DecisionView "Â¿existe?" @396
+				    Parent_View 	@387
+				    location   	(1827, 1022)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @397
+					Parent_View 	@396
+					location   	(1649, 932)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	2
+					max_width  	300
+					justify    	1
+					label      	"Â¿existe?"
+					pctDist    	-1.736917
+					height     	67
+					orientation 	1)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD413DF039A"
+				    autoResize 	TRUE)
+				(object TransView "" @398
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD413EF0129"
+				    client     	@395
+				    supplier   	@396
+				    vertices   	(list Points
+					(1827, 870)
+					(1827, 985))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "Mostrar mensaje de error \"El dni ingresado no existe o esta inhabilitado\"" @399
+				    Parent_View 	@387
+				    location   	(1605, 1232)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@399
+					location   	(1605, 1235)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	728
+					justify    	0
+					label      	
+|Mostrar mensaje de error "El dni ingresado no existe o esta inhabilitado"
+					)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD413FE00DB"
+				    width      	834
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @400
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @401
+					Parent_View 	@400
+					location   	(1578, 1062)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"No"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD415F8039A"
+				    client     	@396
+				    supplier   	@399
+				    vertices   	(list Points
+					(1752, 1022)
+					(1568, 1017)
+					(1595, 1178))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "mostrar interfaz de impresiÃ³n" @402
+				    Parent_View 	@387
+				    location   	(2223, 1217)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@402
+					location   	(2223, 1220)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	312
+					justify    	0
+					label      	"mostrar interfaz de impresiÃ³n")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD414C2002F"
+				    width      	418
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @403
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @404
+					Parent_View 	@403
+					location   	(2126, 985)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"Si"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD415F60186"
+				    client     	@396
+				    supplier   	@402
+				    vertices   	(list Points
+					(1902, 1022)
+					(2218, 1032)
+					(2221, 1164))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "opciÃ³n" @405
+				    Parent_View 	@387
+				    location   	(2211, 1519)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @406
+					Parent_View 	@405
+					location   	(2267, 1470)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	2
+					max_width  	300
+					justify    	1
+					label      	"opciÃ³n"
+					pctDist    	1.000000
+					height     	0
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD4197D00FA"
+				    autoResize 	TRUE)
+				(object TransView "" @407
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD419D1030D"
+				    client     	@402
+				    supplier   	@405
+				    vertices   	(list Points
+					(2220, 1269)
+					(2211, 1482))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object StateView "EndState" "$UNNAMED$78" @408
+				    Parent_View 	@387
+				    location   	(1943, 1731)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD41A3902BF"
+				    autoResize 	TRUE)
+				(object TransView "" @409
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @410
+					Parent_View 	@409
+					location   	(1943, 1577)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	166
+					justify    	0
+					label      	"cancelar"
+					pctDist    	0.697104
+					height     	1
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41A3E02EE"
+				    client     	@405
+				    supplier   	@408
+				    vertices   	(list Points
+					(2136, 1519)
+					(1942, 1520)
+					(1942, 1688))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "mostrar formulario de error \"Acceso no permitido al sistema\"" @411
+				    Parent_View 	@387
+				    location   	(2231, 2114)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@411
+					location   	(2231, 2101)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	759
+					justify    	0
+					label      	
+|mostrar formulario de error "Acceso no permitido al sistema"
+					)
+				    icon_style 	"Label"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41B2603B9"
+				    width      	887
+				    height     	138
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object StateView "EndState" "$UNNAMED$80" @412
+				    Parent_View 	@387
+				    location   	(2242, 2340)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD41C4E03B9"
+				    autoResize 	TRUE)
+				(object TransView "" @413
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41C52003E"
+				    client     	@411
+				    supplier   	@412
+				    vertices   	(list Points
+					(2234, 2183)
+					(2239, 2297))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "validar boton imprimir ticket de cita" @414
+				    Parent_View 	@387
+				    location   	(2639, 1682)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@414
+					location   	(2639, 1685)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	390
+					justify    	0
+					label      	"validar boton imprimir ticket de cita")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD4165F0232"
+				    width      	496
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @415
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @416
+					Parent_View 	@415
+					location   	(2629, 1434)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"imprimir"
+					pctDist    	0.733749
+					height     	90
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD419D70158"
+				    client     	@405
+				    supplier   	@414
+				    vertices   	(list Points
+					(2286, 1519)
+					(2647, 1523)
+					(2641, 1628))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "true?" @417
+				    Parent_View 	@387
+				    location   	(2647, 1925)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @418
+					Parent_View 	@417
+					location   	(2703, 1876)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	1
+					max_width  	88
+					justify    	1
+					label      	"true?"
+					pctDist    	1.000000
+					height     	0
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41B0002BF"
+				    autoResize 	TRUE)
+				(object TransView "" @419
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41B040213"
+				    client     	@414
+				    supplier   	@417
+				    vertices   	(list Points
+					(2640, 1735)
+					(2647, 1888))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "El sistema ordena imprimir ticket" @420
+				    Parent_View 	@387
+				    location   	(3059, 2298)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@420
+					location   	(3059, 2301)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	370
+					justify    	0
+					label      	"El sistema ordena imprimir ticket")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41C1502EE"
+				    width      	476
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object StateView "EndState" "$UNNAMED$79" @421
+				    Parent_View 	@387
+				    location   	(3075, 2543)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD41C45004E"
+				    autoResize 	TRUE)
+				(object TransView "" @422
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41C49038A"
+				    client     	@420
+				    supplier   	@421
+				    vertices   	(list Points
+					(3062, 2350)
+					(3072, 2500))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "mostrar formulario de error el DNI ingresado no es valido" @423
+				    Parent_View 	@387
+				    location   	(997, 881)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@423
+					location   	(997, 884)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	540
+					justify    	0
+					label      	"mostrar formulario de error el DNI ingresado no es valido")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD40A32038A"
+				    width      	646
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object StateView "EndState" "$UNNAMED$77" @424
+				    Parent_View 	@387
+				    location   	(1008, 1119)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD40B9D039A"
+				    autoResize 	TRUE)
+				(object TransView "" @425
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD40BAC02FD"
+				    client     	@423
+				    supplier   	@424
+				    vertices   	(list Points
+					(999, 933)
+					(1006, 1077))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "almacenar el valor del ticket en la BD" @426
+				    Parent_View 	@387
+				    location   	(3045, 2104)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@426
+					location   	(3045, 2107)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	334
+					justify    	0
+					label      	"almacenar el valor del ticket en la BD")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41B2803B9"
+				    width      	440
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @427
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41C200261"
+				    client     	@426
+				    supplier   	@420
+				    vertices   	(list Points
+					(3048, 2157)
+					(3055, 2244))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object Swimlane "" @428
+				    location   	(3644, 0)
+				    line_color 	3342489
+				    width      	450)
+				(object TransView "" @429
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @430
+					Parent_View 	@429
+					location   	(2346, 1977)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	60
+					justify    	0
+					label      	"no"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41B2D030D"
+				    client     	@417
+				    supplier   	@411
+				    vertices   	(list Points
+					(2572, 1925)
+					(2225, 1936)
+					(2228, 2044))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @431
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @432
+					Parent_View 	@431
+					location   	(2942, 1887)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	60
+					justify    	0
+					label      	"si"
+					pctDist    	0.501075
+					height     	44
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41B30005E"
+				    client     	@417
+				    supplier   	@426
+				    vertices   	(list Points
+					(2722, 1925)
+					(3041, 1932)
+					(3043, 2050))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @433
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @434
+					Parent_View 	@433
+					location   	(1601, 625)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"Si"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD40C4E0242"
+				    client     	@392
+				    supplier   	@395
+				    vertices   	(list Points
+					(1287, 674)
+					(1815, 665)
+					(1822, 764))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @435
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @436
+					Parent_View 	@435
+					location   	(1027, 637)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"No"
+					pctDist    	0.383857
+					height     	36
+					orientation 	1)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD40BB8003E"
+				    client     	@392
+				    supplier   	@423
+				    vertices   	(list Points
+					(1137, 674)
+					(1000, 672)
+					(997, 828))
+				    line_style 	0
+				    x_offset   	FALSE)))))
+		logical_presentations 	(list unit_reference_list))
+	    (object Class_Category "Registrar Historial Medico"
+		quid       	"5BD41CB9035B"
+		exportControl 	"Public"
+		logical_models 	(list unit_reference_list)
+		statemachine 	(object State_Machine "State/Activity Model6"
+		    quid       	"5BD41CC8003E"
+		    states     	(list States
+			(object State "Hacer click en el boton registrar historial medico"
+			    quid       	"5BD41CF90252"
+			    type       	"StartState")
+			(object ActivityState "Muestra interfaz de listado de pacientes"
+			    quid       	"5BD41E51009C")
+			(object ActivityState "Seleccionar  paciente"
+			    quid       	"5BD41EFF038A")
+			(object ActivityState "validar boton agregar historial clinico"
+			    quid       	"5BD41F2002AF")
+			(object Decision "true?"
+			    quid       	"5BD41F32036B")
+			(object ActivityState "Mostrar mensaje de error \"Historial clinico no valido\""
+			    quid       	"5BD41F3C0138")
+			(object ActivityState "mostrar interfaz de historial clinico"
+			    quid       	"5BD41F3F036B")
+			(object ActivityState "Mostrar mensaje de error \"Los datos ingresados estan vacios\""
+			    quid       	"5BD41FB40213")
+			(object ActivityState "validar el boton registrar"
+			    quid       	"5BD420960252")
+			(object ActivityState "Mostrar mensaje de error \"registro no valido\""
+			    quid       	"5BD420CA02BF")
+			(object ActivityState "validar los datos ingresados"
+			    quid       	"5BD420CE001F")
+			(object Decision "campos<>NULL"
+			    quid       	"5BD421F50232")
+			(object ActivityState "almacenar los datos en la BD"
+			    quid       	"5BD4225B007D")
+			(object State "$UNNAMED$81"
+			    quid       	"5BD4231E0232"
+			    type       	"EndState")
+			(object State "$UNNAMED$82"
+			    quid       	"5BD42320030D"
+			    type       	"EndState")
+			(object State "$UNNAMED$83"
+			    quid       	"5BD42322037A"
+			    type       	"EndState")
+			(object State "$UNNAMED$84"
+			    quid       	"5BD4232502BF"
+			    type       	"EndState"))
+		    partitions 	(list Partitions
+			(object Partition "$UNNAMED$85"
+			    quid       	"5BD41CD90203"
+			    class      	"Use Case View::Use Case Model::Enfermera"
+			    quidu      	"5BD3F8BB003F"
+			    persistence 	"Transient"
+			    creationObj 	FALSE
+			    multi      	FALSE)
+			(object Partition "Sistema"
+			    quid       	"5BD41CDB006D"
+			    persistence 	"Transient"
+			    creationObj 	FALSE
+			    multi      	FALSE))
+		    objects    	(list Objects)
+		    transitions 	(list transition_list
+			(object State_Transition
+			    quid       	"5BD41EFE02A0"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::Muestra interfaz de listado de pacientes"
+			    supplier_quidu 	"5BD41E51009C"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::Hacer click en el boton registrar historial medico"
+			    client_quidu 	"5BD41CF90252"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41EFE02A3"))
+			(object State_Transition
+			    quid       	"5BD41F1A0223"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::Seleccionar  paciente"
+			    supplier_quidu 	"5BD41EFF038A"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::Muestra interfaz de listado de pacientes"
+			    client_quidu 	"5BD41E51009C"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41F1A0226"))
+			(object State_Transition
+			    quid       	"5BD41F2F02CF"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::validar boton agregar historial clinico"
+			    supplier_quidu 	"5BD41F2002AF"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::Seleccionar  paciente"
+			    client_quidu 	"5BD41EFF038A"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41F2F02D2"))
+			(object State_Transition
+			    quid       	"5BD41F3A0203"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::true?"
+			    supplier_quidu 	"5BD41F32036B"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::validar boton agregar historial clinico"
+			    client_quidu 	"5BD41F2002AF"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41F3A0206"))
+			(object State_Transition
+			    quid       	"5BD41F43035B"
+			    label      	""
+			    supplier   	
+|Use Case View::Registrar Historial Medico::State/Activity Model6::Mostrar mensaje de error "Historial clinico no valido"
+			    
+			    supplier_quidu 	"5BD41F3C0138"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::true?"
+			    client_quidu 	"5BD41F32036B"
+			    Event      	(object Event "no"
+				quid       	"5BD41F43035C")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41F43035E"))
+			(object State_Transition
+			    quid       	"5BD41F47004E"
+			    label      	""
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::mostrar interfaz de historial clinico"
+			    supplier_quidu 	"5BD41F3F036B"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::true?"
+			    client_quidu 	"5BD41F32036B"
+			    Event      	(object Event "si"
+				quid       	"5BD41F47004F")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD41F470051"))
+			(object State_Transition
+			    quid       	"5BD420EA001F"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::true?"
+			    supplier_quidu 	"5BD41F32036B"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::validar el boton registrar"
+			    client_quidu 	"5BD420960252"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD420EA0022"))
+			(object State_Transition
+			    quid       	"5BD420ED00DB"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::validar el boton registrar"
+			    supplier_quidu 	"5BD420960252"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::mostrar interfaz de historial clinico"
+			    client_quidu 	"5BD41F3F036B"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD420ED00DE"))
+			(object State_Transition
+			    quid       	"5BD420F00261"
+			    label      	""
+			    supplier   	
+|Use Case View::Registrar Historial Medico::State/Activity Model6::Mostrar mensaje de error "registro no valido"
+			    
+			    supplier_quidu 	"5BD420CA02BF"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::true?"
+			    client_quidu 	"5BD41F32036B"
+			    Event      	(object Event "no"
+				quid       	"5BD420F00262")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD420F00264"))
+			(object State_Transition
+			    quid       	"5BD420F60000"
+			    label      	""
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::validar los datos ingresados"
+			    supplier_quidu 	"5BD420CE001F"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::true?"
+			    client_quidu 	"5BD41F32036B"
+			    Event      	(object Event "si"
+				quid       	"5BD420F60001")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD420F60003"))
+			(object State_Transition
+			    quid       	"5BD4222A00FA"
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::campos<>NULL"
+			    supplier_quidu 	"5BD421F50232"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::validar los datos ingresados"
+			    client_quidu 	"5BD420CE001F"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD4222A00FD"))
+			(object State_Transition
+			    quid       	"5BD42295004E"
+			    label      	""
+			    supplier   	
+|Use Case View::Registrar Historial Medico::State/Activity Model6::Mostrar mensaje de error "Los datos ingresados estan vacios"
+			    
+			    supplier_quidu 	"5BD41FB40213"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::campos<>NULL"
+			    client_quidu 	"5BD421F50232"
+			    Event      	(object Event "no"
+				quid       	"5BD42295004F")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD422950051"))
+			(object State_Transition
+			    quid       	"5BD422A8034C"
+			    label      	""
+			    supplier   	"Use Case View::Registrar Historial Medico::State/Activity Model6::almacenar los datos en la BD"
+			    supplier_quidu 	"5BD4225B007D"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::campos<>NULL"
+			    client_quidu 	"5BD421F50232"
+			    Event      	(object Event "si"
+				quid       	"5BD422A8034D")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD422A8034F"))
+			(object State_Transition
+			    quid       	"5BD423280186"
+			    supplier   	"$UNNAMED$81"
+			    supplier_quidu 	"5BD4231E0232"
+			    client     	
+|Use Case View::Registrar Historial Medico::State/Activity Model6::Mostrar mensaje de error "Historial clinico no valido"
+			    
+			    client_quidu 	"5BD41F3C0138"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD423280189"))
+			(object State_Transition
+			    quid       	"5BD4232B0223"
+			    supplier   	"$UNNAMED$82"
+			    supplier_quidu 	"5BD42320030D"
+			    client     	
+|Use Case View::Registrar Historial Medico::State/Activity Model6::Mostrar mensaje de error "registro no valido"
+			    
+			    client_quidu 	"5BD420CA02BF"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD4232B0226"))
+			(object State_Transition
+			    quid       	"5BD4232E035B"
+			    supplier   	"$UNNAMED$83"
+			    supplier_quidu 	"5BD42322037A"
+			    client     	
+|Use Case View::Registrar Historial Medico::State/Activity Model6::Mostrar mensaje de error "Los datos ingresados estan vacios"
+			    
+			    client_quidu 	"5BD41FB40213"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD4232E035E"))
+			(object State_Transition
+			    quid       	"5BD42331033C"
+			    supplier   	"$UNNAMED$84"
+			    supplier_quidu 	"5BD4232502BF"
+			    client     	"Use Case View::Registrar Historial Medico::State/Activity Model6::almacenar los datos en la BD"
+			    client_quidu 	"5BD4225B007D"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD42331033F")))
+		    objectflows 	(list objectflow_list)
+		    statediagrams 	(list StateDiagrams
+			(object ActivityDiagram "Registrar Historial Medico"
+			    quid       	"5BD41CC80040"
+			    title      	"Registrar Historial Medico"
+			    zoom       	100
+			    max_height 	28350
+			    max_width  	21600
+			    origin_x   	0
+			    origin_y   	400
+			    items      	(list diagram_item_list
+				(object Swimlane "$UNNAMED$85" @437
+				    line_color 	3342489
+				    quidu      	"5BD41CD90203"
+				    width      	666)
+				(object StateView "StartState" "Hacer click en el boton registrar historial medico" @438
+				    Parent_View 	@437
+				    location   	(156, 309)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @439
+					Parent_View 	@438
+					location   	(82, 104)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					nlines     	1
+					max_width  	904
+					justify    	1
+					label      	"Hacer click en el boton registrar historial medico"
+					pctDist    	-0.950000
+					height     	176
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD41CF90252"
+				    autoResize 	TRUE)
+				(object Swimlane "Sistema" @440
+				    location   	(666, 0)
+				    line_color 	3342489
+				    quidu      	"5BD41CDB006D"
+				    width      	2522)
+				(object ActivityStateView "Muestra interfaz de listado de pacientes" @441
+				    Parent_View 	@440
+				    location   	(1234, 291)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@441
+					location   	(1234, 294)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	420
+					justify    	0
+					label      	"Muestra interfaz de listado de pacientes")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41E51009C"
+				    width      	526
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @442
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41EFE02A0"
+				    client     	@438
+				    supplier   	@441
+				    vertices   	(list Points
+					(186, 308)
+					(1005, 294))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "Seleccionar  paciente" @443
+				    Parent_View 	@440
+				    location   	(1260, 522)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@443
+					location   	(1260, 525)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	400
+					justify    	0
+					label      	"Seleccionar  paciente")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41EFF038A"
+				    width      	506
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @444
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41F1A0223"
+				    client     	@441
+				    supplier   	@443
+				    vertices   	(list Points
+					(1239, 344)
+					(1254, 468))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "validar boton agregar historial clinico" @445
+				    Parent_View 	@440
+				    location   	(1265, 731)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@445
+					location   	(1265, 734)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	376
+					justify    	0
+					label      	"validar boton agregar historial clinico")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41F2002AF"
+				    width      	482
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @446
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41F2F02CF"
+				    client     	@443
+				    supplier   	@445
+				    vertices   	(list Points
+					(1261, 574)
+					(1263, 677))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "true?" @447
+				    Parent_View 	@440
+				    location   	(1269, 996)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @448
+					Parent_View 	@447
+					location   	(1325, 947)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	2
+					max_width  	300
+					justify    	1
+					label      	"true?"
+					pctDist    	1.000000
+					height     	0
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41F32036B"
+				    autoResize 	TRUE)
+				(object TransView "" @449
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41F3A0203"
+				    client     	@445
+				    supplier   	@447
+				    vertices   	(list Points
+					(1265, 784)
+					(1269, 959))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "Mostrar mensaje de error \"Historial clinico no valido\"" @450
+				    Parent_View 	@440
+				    location   	(1028, 1241)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@450
+					location   	(1028, 1244)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	496
+					justify    	0
+					label      	
+|Mostrar mensaje de error "Historial clinico no valido"
+					)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41F3C0138"
+				    width      	602
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @451
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @452
+					Parent_View 	@451
+					location   	(1047, 944)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"no"
+					pctDist    	0.391185
+					height     	51
+					orientation 	1)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41F43035B"
+				    client     	@447
+				    supplier   	@450
+				    vertices   	(list Points
+					(1194, 996)
+					(1009, 994)
+					(1023, 1188))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "mostrar interfaz de historial clinico" @453
+				    Parent_View 	@440
+				    location   	(1693, 1254)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@453
+					location   	(1693, 1257)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	376
+					justify    	0
+					label      	"mostrar interfaz de historial clinico")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41F3F036B"
+				    width      	482
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @454
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @455
+					Parent_View 	@454
+					location   	(1613, 950)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"si"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD41F47004E"
+				    client     	@447
+				    supplier   	@453
+				    vertices   	(list Points
+					(1344, 996)
+					(1678, 994)
+					(1689, 1200))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "Mostrar mensaje de error \"Los datos ingresados estan vacios\"" @456
+				    Parent_View 	@440
+				    location   	(2006, 2320)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@456
+					location   	(2006, 2323)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	576
+					justify    	0
+					label      	
+|Mostrar mensaje de error "Los datos ingresados estan vacios"
+					)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41FB40213"
+				    width      	682
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object ActivityStateView "validar el boton registrar" @457
+				    Parent_View 	@440
+				    location   	(1703, 1478)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@457
+					location   	(1703, 1481)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	430
+					justify    	0
+					label      	"validar el boton registrar")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD420960252"
+				    width      	536
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @458
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD420ED00DB"
+				    client     	@453
+				    supplier   	@457
+				    vertices   	(list Points
+					(1695, 1307)
+					(1700, 1424))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "true?" @459
+				    Parent_View 	@440
+				    location   	(1728, 1743)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @460
+					Parent_View 	@459
+					location   	(1744, 1638)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	1
+					max_width  	88
+					justify    	1
+					label      	"true?"
+					pctDist    	0.274807
+					height     	32
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD41F32036B"
+				    autoResize 	TRUE)
+				(object TransView "" @461
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD420EA001F"
+				    client     	@457
+				    supplier   	@459
+				    vertices   	(list Points
+					(1707, 1530)
+					(1728, 1706))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "Mostrar mensaje de error \"registro no valido\"" @462
+				    Parent_View 	@440
+				    location   	(1324, 1905)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@462
+					location   	(1324, 1908)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	556
+					justify    	0
+					label      	
+|Mostrar mensaje de error "registro no valido"
+					)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD420CA02BF"
+				    width      	662
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @463
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @464
+					Parent_View 	@463
+					location   	(1440, 1789)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"no"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD420F00261"
+				    client     	@459
+				    supplier   	@462
+				    vertices   	(list Points
+					(1653, 1743)
+					(1334, 1745)
+					(1327, 1852))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "validar los datos ingresados" @465
+				    Parent_View 	@440
+				    location   	(2271, 1894)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@465
+					location   	(2271, 1897)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	350
+					justify    	0
+					label      	"validar los datos ingresados")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD420CE001F"
+				    width      	456
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @466
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @467
+					Parent_View 	@466
+					location   	(2074, 1704)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"si"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD420F60000"
+				    client     	@459
+				    supplier   	@465
+				    vertices   	(list Points
+					(1803, 1743)
+					(2253, 1751)
+					(2264, 1840))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "campos<>NULL" @468
+				    Parent_View 	@440
+				    location   	(2284, 2134)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @469
+					Parent_View 	@468
+					location   	(2322, 2010)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	1
+					max_width  	298
+					justify    	1
+					label      	"campos<>NULL"
+					pctDist    	0.394195
+					height     	60
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD421F50232"
+				    autoResize 	TRUE)
+				(object TransView "" @470
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD4222A00FA"
+				    client     	@465
+				    supplier   	@468
+				    vertices   	(list Points
+					(2273, 1946)
+					(2284, 2097))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @471
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @472
+					Parent_View 	@471
+					location   	(2028, 2173)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"no"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD42295004E"
+				    client     	@468
+				    supplier   	@456
+				    vertices   	(list Points
+					(2209, 2134)
+					(1988, 2127)
+					(2001, 2266))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "almacenar los datos en la BD" @473
+				    Parent_View 	@440
+				    location   	(2697, 2320)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@473
+					location   	(2697, 2323)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	269
+					justify    	0
+					label      	"almacenar los datos en la BD")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD4225B007D"
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @474
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @475
+					Parent_View 	@474
+					location   	(2589, 2091)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"si"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD422A8034C"
+				    client     	@468
+				    supplier   	@473
+				    vertices   	(list Points
+					(2359, 2134)
+					(2688, 2136)
+					(2694, 2267))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object StateView "EndState" "$UNNAMED$81" @476
+				    Parent_View 	@440
+				    location   	(1000, 1476)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD4231E0232"
+				    autoResize 	TRUE)
+				(object StateView "EndState" "$UNNAMED$82" @477
+				    Parent_View 	@440
+				    location   	(1344, 2077)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD42320030D"
+				    autoResize 	TRUE)
+				(object StateView "EndState" "$UNNAMED$83" @478
+				    Parent_View 	@440
+				    location   	(2019, 2574)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD42322037A"
+				    autoResize 	TRUE)
+				(object StateView "EndState" "$UNNAMED$84" @479
+				    Parent_View 	@440
+				    location   	(2725, 2556)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD4232502BF"
+				    autoResize 	TRUE)
+				(object Swimlane "" @480
+				    location   	(3188, 0)
+				    line_color 	3342489
+				    width      	450)
+				(object TransView "" @481
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD423280186"
+				    client     	@450
+				    supplier   	@476
+				    vertices   	(list Points
+					(1021, 1293)
+					(1005, 1434))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @482
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD4232B0223"
+				    client     	@462
+				    supplier   	@477
+				    vertices   	(list Points
+					(1330, 1957)
+					(1339, 2034))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @483
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD4232E035B"
+				    client     	@456
+				    supplier   	@478
+				    vertices   	(list Points
+					(2008, 2373)
+					(2016, 2532))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @484
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD42331033C"
+				    client     	@473
+				    supplier   	@479
+				    vertices   	(list Points
+					(2703, 2373)
+					(2720, 2513))
+				    line_style 	0
+				    x_offset   	FALSE)))))
+		logical_presentations 	(list unit_reference_list))
+	    (object Class_Category "Emitir Ficha de Examen Medico"
+		quid       	"5BD4234F00AC"
+		exportControl 	"Public"
+		logical_models 	(list unit_reference_list)
+		statemachine 	(object State_Machine "State/Activity Model7"
+		    quid       	"5BD423AC030D"
+		    states     	(list States
+			(object State "hacer click en el boton emitir ficha de examen medico"
+			    quid       	"5BD423E202AF"
+			    type       	"StartState")
+			(object ActivityState "validar boton emitir ficha de examen medico"
+			    quid       	"5BD424BD0109")
+			(object Decision "true?"
+			    quid       	"5BD425D102EE")
+			(object ActivityState "mostrar mensaje de error \"acceso incorrecto al sistema\""
+			    quid       	"5BD425D401B5")
+			(object ActivityState "mostrar formulario ficha de examen medico"
+			    quid       	"5BD425D60223")
+			(object Decision "$UNNAMED$86"
+			    quid       	"5BD426D1003E"))
+		    partitions 	(list Partitions
+			(object Partition "ususario"
+			    quid       	"5BD423B80223"
+			    persistence 	"Transient"
+			    creationObj 	FALSE
+			    multi      	FALSE)
+			(object Partition "sistema"
+			    quid       	"5BD423B902FD"
+			    persistence 	"Transient"
+			    creationObj 	FALSE
+			    multi      	FALSE))
+		    objects    	(list Objects)
+		    transitions 	(list transition_list
+			(object State_Transition
+			    quid       	"5BD4258601C5"
+			    supplier   	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::validar boton emitir ficha de examen medico"
+			    supplier_quidu 	"5BD424BD0109"
+			    client     	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::hacer click en el boton emitir ficha de examen medico"
+			    client_quidu 	"5BD423E202AF"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD4258601C8"))
+			(object State_Transition
+			    quid       	"5BD425DC0158"
+			    label      	""
+			    supplier   	
+|Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::mostrar mensaje de error "acceso incorrecto al sistema"
+			    
+			    supplier_quidu 	"5BD425D401B5"
+			    client     	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::true?"
+			    client_quidu 	"5BD425D102EE"
+			    Event      	(object Event "no"
+				quid       	"5BD425DC0159")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD425DC015B"))
+			(object State_Transition
+			    quid       	"5BD425E103A9"
+			    label      	""
+			    supplier   	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::mostrar formulario ficha de examen medico"
+			    supplier_quidu 	"5BD425D60223"
+			    client     	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::true?"
+			    client_quidu 	"5BD425D102EE"
+			    Event      	(object Event "si"
+				quid       	"5BD425E103AA")
+			    sendEvent  	(object sendEvent
+				quid       	"5BD425E103AC"))
+			(object State_Transition
+			    quid       	"5BD425E60203"
+			    supplier   	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::true?"
+			    supplier_quidu 	"5BD425D102EE"
+			    client     	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::validar boton emitir ficha de examen medico"
+			    client_quidu 	"5BD424BD0109"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD425E60206"))
+			(object State_Transition
+			    quid       	"5BD426D6009C"
+			    supplier   	"$UNNAMED$86"
+			    supplier_quidu 	"5BD426D1003E"
+			    client     	"Use Case View::Emitir Ficha de Examen Medico::State/Activity Model7::mostrar formulario ficha de examen medico"
+			    client_quidu 	"5BD425D60223"
+			    sendEvent  	(object sendEvent
+				quid       	"5BD426D6009F")))
+		    objectflows 	(list objectflow_list)
+		    statediagrams 	(list StateDiagrams
+			(object ActivityDiagram "Emitir Ficha de examen medico"
+			    quid       	"5BD423AC031D"
+			    title      	"Emitir Ficha de examen medico"
+			    zoom       	100
+			    max_height 	28350
+			    max_width  	21600
+			    origin_x   	2662
+			    origin_y   	0
+			    items      	(list diagram_item_list
+				(object Swimlane "ususario" @485
+				    line_color 	3342489
+				    quidu      	"5BD423B80223"
+				    width      	1060)
+				(object StateView "StartState" "hacer click en el boton emitir ficha de examen medico" @486
+				    Parent_View 	@485
+				    location   	(229, 286)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @487
+					Parent_View 	@486
+					location   	(38, 109)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					nlines     	1
+					max_width  	1010
+					justify    	1
+					label      	"hacer click en el boton emitir ficha de examen medico"
+					pctDist    	-2.883333
+					height     	147
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    quidu      	"5BD423E202AF"
+				    autoResize 	TRUE)
+				(object Swimlane "sistema" @488
+				    location   	(1060, 0)
+				    line_color 	3342489
+				    quidu      	"5BD423B902FD"
+				    width      	2532)
+				(object ActivityStateView "validar boton emitir ficha de examen medico" @489
+				    Parent_View 	@488
+				    location   	(2069, 281)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@489
+					location   	(2069, 284)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	452
+					justify    	0
+					label      	"validar boton emitir ficha de examen medico")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD424BD0109"
+				    width      	558
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object TransView "" @490
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD4258601C5"
+				    client     	@486
+				    supplier   	@489
+				    vertices   	(list Points
+					(259, 285)
+					(1828, 281))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object DecisionView "true?" @491
+				    Parent_View 	@488
+				    location   	(2081, 543)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @492
+					Parent_View 	@491
+					location   	(2137, 494)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	TRUE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor     	1
+					nlines     	2
+					max_width  	300
+					justify    	1
+					label      	"true?"
+					pctDist    	1.000000
+					height     	0
+					orientation 	0)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD425D102EE"
+				    autoResize 	TRUE)
+				(object TransView "" @493
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD425E60203"
+				    client     	@489
+				    supplier   	@491
+				    vertices   	(list Points
+					(2071, 333)
+					(2081, 506))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object ActivityStateView "mostrar mensaje de error \"acceso incorrecto al sistema\"" @494
+				    Parent_View 	@488
+				    location   	(1687, 756)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@494
+					location   	(1687, 759)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	592
+					justify    	0
+					label      	
+|mostrar mensaje de error "acceso incorrecto al sistema"
+					)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD425D401B5"
+				    width      	698
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object ActivityStateView "mostrar formulario ficha de examen medico" @495
+				    Parent_View 	@488
+				    location   	(2670, 762)
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object ItemLabel
+					Parent_View 	@495
+					location   	(2670, 765)
+					fill_color 	13434879
+					anchor_loc 	1
+					nlines     	2
+					max_width  	472
+					justify    	0
+					label      	"mostrar formulario ficha de examen medico")
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD425D60223"
+				    width      	578
+				    height     	106
+				    annotation 	1
+				    autoResize 	TRUE)
+				(object DecisionView "$UNNAMED$86" @496
+				    Parent_View 	@488
+				    location   	(2672, 990)
+				    icon_style 	"Icon"
+				    line_color 	3342489
+				    fill_color 	13434879
+				    quidu      	"5BD426D1003E"
+				    autoResize 	TRUE)
+				(object Swimlane "" @497
+				    location   	(3592, 0)
+				    line_color 	3342489
+				    width      	450)
+				(object TransView "" @498
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD426D6009C"
+				    client     	@495
+				    supplier   	@496
+				    vertices   	(list Points
+					(2670, 815)
+					(2672, 953))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @499
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @500
+					Parent_View 	@499
+					location   	(1764, 586)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"no"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD425DC0158"
+				    client     	@491
+				    supplier   	@494
+				    vertices   	(list Points
+					(2006, 543)
+					(1684, 541)
+					(1686, 703))
+				    line_style 	0
+				    x_offset   	FALSE)
+				(object TransView "" @501
+				    font       	(object Font
+					size       	10
+					face       	"Arial"
+					bold       	FALSE
+					italics    	FALSE
+					underline  	FALSE
+					strike     	FALSE
+					color      	0
+					default_color 	TRUE)
+				    label      	(object SegLabel @502
+					Parent_View 	@501
+					location   	(2489, 500)
+					font       	(object Font
+					    size       	10
+					    face       	"Arial"
+					    bold       	FALSE
+					    italics    	FALSE
+					    underline  	FALSE
+					    strike     	FALSE
+					    color      	0
+					    default_color 	TRUE)
+					anchor_loc 	1
+					nlines     	1
+					max_width  	450
+					justify    	0
+					label      	"si"
+					pctDist    	0.500000
+					height     	45
+					orientation 	0)
+				    stereotype 	TRUE
+				    line_color 	3342489
+				    quidu      	"5BD425E103A9"
+				    client     	@491
+				    supplier   	@495
+				    vertices   	(list Points
+					(2156, 543)
+					(2659, 544)
+					(2667, 708))
+				    line_style 	0
+				    x_offset   	FALSE)))))
+		logical_presentations 	(list unit_reference_list)))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
 		quid       	"5BD3F0D1013A"
