@@ -7237,7 +7237,7 @@
 				    location   	(873, 1051)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"usuario")
 				icon       	"Actor"
@@ -7352,7 +7352,7 @@
 				    location   	(855, 384)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Administrador sistema")
 				icon       	"Actor"
@@ -7492,7 +7492,7 @@
 				    location   	(1763, 1585)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Enfermera")
 				icon       	"Actor"
@@ -7607,7 +7607,7 @@
 				    location   	(1773, 1997)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Secretaria")
 				icon       	"Actor"
@@ -7809,7 +7809,7 @@
 				    location   	(1837, 2826)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Médico")
 				icon       	"Actor"
@@ -8052,7 +8052,7 @@
 				    location   	(1875, 3704)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Tecnico Laboratorio")
 				icon       	"Actor"
@@ -8206,7 +8206,7 @@
 				    location   	(1854, 4298)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Archivador")
 				icon       	"Actor"
@@ -8443,7 +8443,7 @@
 				    location   	(1608, 685)
 				    anchor_loc 	1
 				    nlines     	2
-				    max_width  	365
+				    max_width  	325
 				    justify    	0
 				    label      	"Personal Admisión de Caja")
 				icon       	"Actor"
@@ -8713,7 +8713,30 @@
 				line_color 	3342489
 				fill_color 	13434879
 				width      	743
-				height     	544))))))
+				height     	544)
+			    (object NoteView @384
+				location   	(257, 2022)
+				font       	(object Font
+				    size       	10
+				    face       	"Arial"
+				    bold       	FALSE
+				    italics    	FALSE
+				    underline  	FALSE
+				    strike     	FALSE
+				    color      	0
+				    default_color 	TRUE)
+				label      	(object ItemLabel
+				    Parent_View 	@384
+				    location   	(119, 1962)
+				    fill_color 	13434879
+				    nlines     	2
+				    max_width  	240
+				    justify    	1
+				    label      	"prueba2")
+				line_color 	3342489
+				fill_color 	13434879
+				width      	300
+				height     	132))))))
 	logical_presentations 	(list unit_reference_list
 	    (object UseCaseDiagram "Main"
 		quid       	"5BD3F0D1013A"
